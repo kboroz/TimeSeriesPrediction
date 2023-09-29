@@ -16,4 +16,12 @@ https://www.economodel.com/time-series-analysis
 
 Second part - Ml-Methods:
 
+see the corresponding lonks on our GitBook-Opencampus-page:
+
+https://opencampus.gitbook.io/opencampus-machine-learning-program/courses/time-series-prediction/preparation-youtube
+
+
+Projects - Datasets:
+
+https://www.ecmwf.int/en/forecasts/charts
 
