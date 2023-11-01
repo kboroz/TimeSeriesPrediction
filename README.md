@@ -11,6 +11,7 @@ https://www.youtube.com/watch?v=k9jOeUKRGSs&list=PLtIY5kwXKny91_IbkqcIXuv6t1prQw
 https://www.youtube.com/watch?v=ZoJ2OctrFLA&list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3
 
 OPTIONAL:
+
 https://www.youtube.com/playlist?list=PL0vEWJI_pj7SWa-cOUZZlHtpMQ7ULrTdY
 
 # GARCH-Models:
