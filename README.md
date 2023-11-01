@@ -1,4 +1,4 @@
-####### First part - Classical Time-Series-Models (AR-MA-ARMA-ARIMA-SARIMA-SARIMAX-VAR)
+# First part - Classical Time-Series-Models (AR-MA-ARMA-ARIMA-SARIMA-SARIMAX-VAR)
 
 ALL REQUIRED:
 
@@ -13,21 +13,21 @@ https://www.youtube.com/watch?v=ZoJ2OctrFLA&list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfM
 OPTIONAL:
 https://www.youtube.com/playlist?list=PL0vEWJI_pj7SWa-cOUZZlHtpMQ7ULrTdY
 
-####GARCH-Models:
+# GARCH-Models:
 
 REQUIRED:
 
 OPTIONAL:
 
-####Spectral Methods:
+# Spectral Methods:
 
 REQUIRED:
 
 OPTIONAL:
 
-######Second part - ML-Methods: From Trees to Trnasformers
+# Second part - ML-Methods: From Trees to Trnasformers
 
-####Trees - Random Forest - Boosting:
+# Trees - Random Forest - Boosting:
 
 ALL REQUIRED:
 
@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=J4Wdy0Wc_xQ
 
 https://www.youtube.com/watch?v=3CC4N4z3GJc
 
-####XGBoosting - LightGBM - CatBoost:
+# XGBoosting - LightGBM - CatBoost:
 
 ALL REQUIRED:
 
@@ -51,7 +51,7 @@ https://www.youtube.com/watch?v=o7cUF25hAbo
 
 https://www.youtube.com/watch?v=ajI8y8wnV1I
 
-####RNNs + LSTMs + GRUs + LMUs:
+# RNNs + LSTMs + GRUs + LMUs:
 
 https://www.youtube.com/watch?v=AsNTP8Kwu80
 
@@ -59,7 +59,7 @@ https://www.youtube.com/watch?v=YCzL96nL7j0
 
 https://www.youtube.com/watch?v=viZrOnJclY0
 
-####Amazon-Prophet + DeepAR/GPVAR:
+# Amazon-Prophet + DeepAR/GPVAR:
 
 https://www.youtube.com/watch?v=j0eioK5edqg
 
@@ -67,7 +67,7 @@ https://www.youtube.com/watch?v=KvLG1uTC-KU
 
 https://www.youtube.com/watch?v=j0eioK5edqg
 
-####Transformers + TFTs:
+# Transformers + TFTs:
 
 https://www.youtube.com/watch?v=viZrOnJclY0
 
@@ -80,7 +80,7 @@ https://www.youtube.com/watch?v=zxQyTK8quyY
 https://www.youtube.com/watch?v=bQ5BoolX9Ag
 
 
-####NBEATS(x) + NHITS(x)
+# NBEATS(x) + NHITS(x)
 
 https://www.youtube.com/watch?v=i7JNt5qN2Sg
 
