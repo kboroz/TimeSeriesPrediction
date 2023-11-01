@@ -60,6 +60,10 @@ https://www.youtube.com/watch?v=YCzL96nL7j0
 
 https://www.youtube.com/watch?v=viZrOnJclY0
 
+https://www.youtube.com/watch?v=8t64QaTdBcU&list=PLwFCDwRih1-Kt8wJ_jx6of8oIC0afhkSB
+
+https://www.youtube.com/watch?v=2ekL5oG6RVo
+
 # Facebook-Prophet + Amazon-DeepAR/GPVAR:
 
 https://www.youtube.com/watch?v=j0eioK5edqg
