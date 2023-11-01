@@ -1,8 +1,7 @@
-###### TimeSeriesPredictionWS2023
-
-####First part - Classical Time-Series-Models (AR-MA-ARMA-ARIMA-SARIMA-SARIMAX-VAR)
+####### First part - Classical Time-Series-Models (AR-MA-ARMA-ARIMA-SARIMA-SARIMAX-VAR)
 
 ALL REQUIRED:
+
 https://www.youtube.com/watch?v=Lh9LY5YoH0I&list=PLqYFiz7NM_SMC4ZgXplbreXlRY4Jf4zBP
 
 https://www.youtube.com/watch?v=IKY_uDiSe8U&list=PL_iP0SGUzx9SvI_loo4I6orC-6o5-7hKp
