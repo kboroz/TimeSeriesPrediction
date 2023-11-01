@@ -26,7 +26,7 @@ REQUIRED:
 
 OPTIONAL:
 
-# Second part - ML-Methods: From Trees to Trnasformers
+# Second part - ML-Methods: From Trees to Transformers
 
 # Trees - Random Forest - Boosting:
 
