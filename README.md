@@ -1,4 +1,4 @@
-# TimeSeriesPredictionWS2023
+### TimeSeriesPredictionWS2023
 
 First part - Classical Time-Series-Models (AR-MA-ARMA-ARIMA-SARIMA-SARIMAX-VAR)
 
