@@ -18,6 +18,22 @@ https://www.youtube.com/playlist?list=PL0vEWJI_pj7SWa-cOUZZlHtpMQ7ULrTdY
 
 REQUIRED:
 
+https://www.youtube.com/playlist?list=PLzAfHlPtM1I4bPhNE5FKOi0S7erZqm5pg
+
+https://www.youtube.com/playlist?list=PLzAfHlPtM1I7jej6_SxBAbBR-XQM0SBn0
+
+OPTIONAL:
+
+# Copula:
+
+REQUIRED:
+
+https://www.youtube.com/watch?v=d_qvLDhkg00
+
+https://www.youtube.com/watch?v=IaSGqQa5O-M
+
+https://www.youtube.com/playlist?list=PLJYjjnnccKYDppALiJlHskU8md904FXgd
+
 OPTIONAL:
 
 # Spectral Methods:
