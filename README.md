@@ -58,6 +58,10 @@ OPTIONAL:
 
 https://www.youtube.com/playlist?list=PL6Vi_EcJpt8E96_JTKoOKY3HYWVGjf6b4
 
+https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC
+
+https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVXUvppZTYNHKQUD-oWys9
+
 # Second part - ML-Methods: From Trees to Transformers
 
 # Trees - Random Forest - Boosting:
