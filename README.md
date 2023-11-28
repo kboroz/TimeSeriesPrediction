@@ -74,7 +74,7 @@ https://www.youtube.com/playlist?list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk
 
 https://www.youtube.com/playlist?list=PLblh5JKOoLUJjeXUvUE0maghNuY2_5fY6
 
-# XGBoosting - LightGBM - CatBoost:
+# XGBoosting - LightGBM - CatBoost: 
 
 ALL REQUIRED:
 
