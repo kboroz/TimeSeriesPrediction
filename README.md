@@ -68,15 +68,17 @@ https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVXUvppZTYNHKQUD-oWys9
 
 ALL REQUIRED:
 
-https://www.youtube.com/watch?v=_L39rN6gz7Y
+https://www.youtube.com/playlist?list=PLblh5JKOoLUKAtDViTvRGFpphEc24M-QH
 
-https://www.youtube.com/watch?v=J4Wdy0Wc_xQ
+https://www.youtube.com/playlist?list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk
 
-https://www.youtube.com/watch?v=3CC4N4z3GJc
+https://www.youtube.com/playlist?list=PLblh5JKOoLUJjeXUvUE0maghNuY2_5fY6
 
 # XGBoosting - LightGBM - CatBoost:
 
 ALL REQUIRED:
+
+https://www.youtube.com/playlist?list=PLblh5JKOoLULU0irPgs1SnKO6wqVjKUsQ
 
 https://www.youtube.com/watch?v=OtD8wVaFm6E
 
