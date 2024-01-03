@@ -108,8 +108,6 @@ https://www.youtube.com/watch?v=j0eioK5edqg
 
 https://www.youtube.com/watch?v=KvLG1uTC-KU
 
-https://www.youtube.com/watch?v=j0eioK5edqg
-
 # Transformers + TFTs:
 
 https://www.youtube.com/watch?v=viZrOnJclY0
