@@ -124,9 +124,15 @@ https://www.youtube.com/watch?v=zxQyTK8quyY
 
 https://www.youtube.com/watch?v=bQ5BoolX9Ag
 
+https://www.youtube.com/watch?v=Zyj8iFSK7xY
+
 
 # NBEATS(x) + NHITS(x)
+
+https://www.youtube.com/watch?v=p3Xc_TJU8SI
 
 https://www.youtube.com/watch?v=i7JNt5qN2Sg
 
 https://www.youtube.com/watch?v=Zyj8iFSK7xY
+
+https://www.youtube.com/watch?v=vmb79c-RsIU
