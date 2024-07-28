@@ -1,0 +1,9 @@
+setuptools
+wheel
+utils
+six
+numpy
+pandas
+tqdm
+matplotlib
+darts
