@@ -209,12 +209,16 @@ https://www.youtube.com/watch?v=Zfg52zerdJA
 
 https://www.youtube.com/watch?v=RZQJk0hf3sI
 
+https://www.youtube.com/watch?v=V14qoa5vZ1I
+
 OPTIONAL:
 
 
 # NBEATS(x) + NHITS(x)
 
 ALL REQUIRED:
+
+https://www.youtube.com/watch?v=TERpA-kwk6A
 
 https://www.youtube.com/watch?v=p3Xc_TJU8SI
 
