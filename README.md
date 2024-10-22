@@ -74,6 +74,7 @@ https://www.youtube.com/playlist?list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk
 
 https://www.youtube.com/playlist?list=PLblh5JKOoLUJjeXUvUE0maghNuY2_5fY6
 
+
 # XGBoosting - LightGBM - CatBoost: 
 
 ALL REQUIRED:
@@ -90,19 +91,21 @@ https://www.youtube.com/watch?v=o7cUF25hAbo
 
 https://www.youtube.com/watch?v=ajI8y8wnV1I
 
-# RNNs + LSTMs + GRUs + LMUs:
+
+# RNNs + LSTMs + GRUs:
+
+ALL REQUIRED:
 
 https://www.youtube.com/watch?v=AsNTP8Kwu80
 
 https://www.youtube.com/watch?v=YCzL96nL7j0
 
-https://www.youtube.com/watch?v=viZrOnJclY0
+https://www.youtube.com/watch?v=RHGiXPuo_pI
 
-https://www.youtube.com/watch?v=8t64QaTdBcU
-
-https://www.youtube.com/watch?v=2ekL5oG6RVo
 
 # Facebook-Prophet + Amazon-DeepAR/GPVAR:
+
+ALL REQUIRED:
 
 https://www.youtube.com/watch?v=j0eioK5edqg
 
@@ -112,7 +115,12 @@ https://www.youtube.com/watch?v=xcbj0RE3kfI
 
 https://www.youtube.com/watch?v=B_a0K2Uj85Q
 
+
 # Transformers + TFTs:
+
+ALL REQUIRED:
+
+https://www.youtube.com/watch?v=KphmOJnLAdI
 
 https://www.youtube.com/watch?v=viZrOnJclY0
 
@@ -129,6 +137,8 @@ https://www.youtube.com/watch?v=KphmOJnLAdI
 
 # NBEATS(x) + NHITS(x)
 
+ALL REQUIRED:
+
 https://www.youtube.com/watch?v=p3Xc_TJU8SI
 
 https://www.youtube.com/watch?v=i7JNt5qN2Sg
@@ -137,8 +147,22 @@ https://www.youtube.com/watch?v=Zyj8iFSK7xY
 
 https://www.youtube.com/watch?v=vmb79c-RsIU
 
+https://www.youtube.com/watch?v=8t64QaTdBcU
+
+https://www.youtube.com/watch?v=2ekL5oG6RVo
+
+
 # Graphs + Networks
 
+ALL REQUIRED:
+
+
 # LLMs for Time Series
+
+ALL REQUIRED:
+
+https://www.youtube.com/watch?v=9-Jl0dxWQs8
+
+https://www.youtube.com/watch?v=wjZofJX0v4M
 
 https://www.youtube.com/watch?v=Zyj8iFSK7xY
