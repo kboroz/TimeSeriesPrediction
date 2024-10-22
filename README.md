@@ -126,8 +126,6 @@ https://www.youtube.com/watch?v=bQ5BoolX9Ag
 
 https://www.youtube.com/watch?v=KphmOJnLAdI
 
-https://www.youtube.com/watch?v=Zyj8iFSK7xY
-
 
 # NBEATS(x) + NHITS(x)
 
@@ -138,3 +136,9 @@ https://www.youtube.com/watch?v=i7JNt5qN2Sg
 https://www.youtube.com/watch?v=Zyj8iFSK7xY
 
 https://www.youtube.com/watch?v=vmb79c-RsIU
+
+# Graphs + Networks
+
+# LLMs for Time Series
+
+https://www.youtube.com/watch?v=Zyj8iFSK7xY
