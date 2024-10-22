@@ -1,4 +1,4 @@
-# First part - Classical Time-Series-Models (AR-MA-ARMA-ARIMA-SARIMA-SARIMAX-VAR)
+# Classical Time-Series-Models (AR-MA-ARMA-ARIMA-SARIMA-SARIMAX-VAR)
 
 ALL REQUIRED:
 
@@ -62,7 +62,7 @@ https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC
 
 https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVXUvppZTYNHKQUD-oWys9
 
-# Second part - ML-Methods: From Trees to Transformers
+# ML-Methods: From Trees to Transformers
 
 # Trees - Random Forest - Boosting:
 
