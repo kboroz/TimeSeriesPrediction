@@ -258,6 +258,12 @@ https://www.pik-potsdam.de/~donges/pyunicorn/index.html
 
 https://github.com/jakobrunge/tigramite/tree/master
 
+https://www.packtpub.com/en-us/product/hands-on-graph-neural-networks-using-python-9781804617526
+
+https://github.com/PacktPublishing/Hands-On-Graph-Neural-Networks-Using-Python
+
+https://web.stanford.edu/class/cs224w/
+
 
 # LLMs for Time Series
 
