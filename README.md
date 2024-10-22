@@ -36,6 +36,35 @@ https://www.youtube.com/playlist?list=PLJYjjnnccKYDppALiJlHskU8md904FXgd
 
 OPTIONAL:
 
+# Gaussian Processes:
+
+REQUIRED:
+
+https://www.youtube.com/watch?v=UBDgSHPxVME
+
+OPTIONAL:
+
+# Random Matrix Theory:
+
+REQUIRED:
+
+https://www.youtube.com/watch?v=eiP3oJ0Lkbs
+
+https://www.youtube.com/watch?v=kbK53gkPaRQ
+
+https://www.youtube.com/watch?v=sOXROWJ70Pg
+
+https://www.youtube.com/watch?v=XhAGTt3UO_w
+
+https://www.youtube.com/watch?v=osfZc35FgQQ
+
+OPTIONAL:
+
+https://www.youtube.com/playlist?list=PLPjEEUWIWhQV7X6dXfrVP3w0KBBLBVJ0j
+
+https://www.youtube.com/playlist?list=PLY11JnnnTUCabY4nc0hKptrd5qEWtLoo2
+
+
 # Spectral Methods:
 
 REQUIRED:
@@ -62,6 +91,24 @@ https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC
 
 https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVXUvppZTYNHKQUD-oWys9
 
+# Extreme Value Theory + Anomalies + Signatures:
+
+ALL REQUIRED:
+
+https://www.youtube.com/playlist?list=PLvy_Rp6CaRZRCOzlPVL4SpjPiqm80KIpH
+
+https://www.youtube.com/watch?v=_K1OsqCicBY
+
+https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL
+
+https://www.youtube.com/watch?v=pkZhtscaX1M
+
+OPTIONAL:
+
+https://www.youtube.com/playlist?list=PLKsJFg6SO0Ujr6tZHSImQ50vuNPoZ3NOl
+
+https://www.youtube.com/playlist?list=PLKsJFg6SO0UgQD2erzgNKrJEnsnpKcBxX
+
 # ML-Methods: From Trees to Transformers
 
 # Trees - Random Forest - Boosting:
@@ -73,6 +120,8 @@ https://www.youtube.com/playlist?list=PLblh5JKOoLUKAtDViTvRGFpphEc24M-QH
 https://www.youtube.com/playlist?list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk
 
 https://www.youtube.com/playlist?list=PLblh5JKOoLUJjeXUvUE0maghNuY2_5fY6
+
+OPTIONAL:
 
 
 # XGBoosting - LightGBM - CatBoost: 
@@ -91,6 +140,8 @@ https://www.youtube.com/watch?v=o7cUF25hAbo
 
 https://www.youtube.com/watch?v=ajI8y8wnV1I
 
+OPTIONAL:
+
 
 # RNNs + LSTMs + GRUs:
 
@@ -101,6 +152,12 @@ https://www.youtube.com/watch?v=AsNTP8Kwu80
 https://www.youtube.com/watch?v=YCzL96nL7j0
 
 https://www.youtube.com/watch?v=RHGiXPuo_pI
+
+https://www.youtube.com/watch?v=B_a0K2Uj85Q
+
+OPTIONAL:
+
+https://www.youtube.com/watch?v=xcbj0RE3kfI
 
 
 # Facebook-Prophet + Amazon-DeepAR/GPVAR:
@@ -114,6 +171,20 @@ https://www.youtube.com/watch?v=KvLG1uTC-KU
 https://www.youtube.com/watch?v=xcbj0RE3kfI
 
 https://www.youtube.com/watch?v=B_a0K2Uj85Q
+
+OPTIONAL:
+
+# VAEs + GANs:
+
+https://www.youtube.com/watch?v=q222maQaPYo
+
+https://www.youtube.com/watch?v=6S2v7G-OupA
+
+https://www.youtube.com/watch?v=Ei0klF38CNs
+
+https://www.youtube.com/watch?v=S31E-ftRfQI&list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK&index=25
+
+https://www.youtube.com/watch?v=u1vLJBwOFC8&list=PLZsOBAyNTZwYE5IM1g_3yNXuxaH_QRSoJ
 
 
 # Transformers + TFTs:
@@ -134,6 +205,8 @@ https://www.youtube.com/watch?v=bQ5BoolX9Ag
 
 https://www.youtube.com/watch?v=KphmOJnLAdI
 
+OPTIONAL:
+
 
 # NBEATS(x) + NHITS(x)
 
@@ -151,18 +224,33 @@ https://www.youtube.com/watch?v=8t64QaTdBcU
 
 https://www.youtube.com/watch?v=2ekL5oG6RVo
 
+OPTIONAL:
+
+https://www.youtube.com/watch?v=lotzOJuwxYs
 
 # Graphs + Networks
 
 ALL REQUIRED:
+
+OPTIONAL:
 
 
 # LLMs for Time Series
 
 ALL REQUIRED:
 
+https://www.youtube.com/watch?v=_gFycwbfS0g
+
+https://www.youtube.com/watch?v=Mf2FOzDPxck
+
+
+
 https://www.youtube.com/watch?v=9-Jl0dxWQs8
 
 https://www.youtube.com/watch?v=wjZofJX0v4M
 
 https://www.youtube.com/watch?v=Zyj8iFSK7xY
+
+https://www.youtube.com/watch?v=jyrOmIiI2Bc
+
+OPTIONAL:
