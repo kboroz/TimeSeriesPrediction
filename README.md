@@ -214,7 +214,7 @@ https://www.youtube.com/watch?v=V14qoa5vZ1I
 OPTIONAL:
 
 
-# NBEATS(x) + NHITS(x)
+# NBEATS(x) + NHITS + (x)LSTM + LMUs
 
 ALL REQUIRED:
 
@@ -236,11 +236,27 @@ OPTIONAL:
 
 https://www.youtube.com/watch?v=lotzOJuwxYs
 
+https://www.youtube.com/watch?v=0OaEv1a5jUM
+
+https://www.youtube.com/watch?v=KuRpxvMMrlk
+
 # Graphs + Networks
 
 ALL REQUIRED:
 
+https://www.youtube.com/playlist?list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z
+
+https://www.youtube.com/watch?v=ZjC8iDUST0E
+
 OPTIONAL:
+
+http://networksciencebook.com/
+
+https://www.youtube.com/@alelabalelab5337/playlists
+
+https://www.pik-potsdam.de/~donges/pyunicorn/index.html
+
+https://github.com/jakobrunge/tigramite/tree/master
 
 
 # LLMs for Time Series
