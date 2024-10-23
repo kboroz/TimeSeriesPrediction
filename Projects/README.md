@@ -1,1 +1,53 @@
+# FINANCE + ECONOMICS:
 
+https://github.com/ranaroussi/yfinance
+
+https://investpy.readthedocs.io/index.html
+
+https://github.com/mortada/fredapi
+
+https://github.com/philipperemy/FX-1-Minute-Data
+
+https://www.boerse-frankfurt.de/aktien/offenes-orderbuch/DE0008469008
+
+https://pfandbrief.market/spreaddaten-jumbo-pfandbriefe-und-emissionen-ab-500-mio-euro/
+
+# ENERGY:
+
+https://www.energy-charts.info/?l=de&c=DE
+
+# ENVIRONMENT
+
+https://meteostat.net/de/station/10338?t=2017-01-01/2022-11-20
+
+https://open-meteo.com/
+
+https://www.ecmwf.int/en/forecasts/datasets
+
+https://charts.ecmwf.int/products/graphcast_medium-mslp-wind850?base_time=202410230000&projection=opencharts_europe&valid_time=202410230000
+
+https://www.pegelonline.wsv.de/gast/start
+
+https://www.fao.org/faostat/en/#home
+
+# MEDICAL 
+
+https://www.euromomo.eu/graphs-and-maps
+
+https://github.com/dkobak/excess-mortality/blob/main/all-countries.ipynb
+
+http://www.timeseriesclassification.com/index.php
+
+http://www.timeseriesclassification.com/description.php?Dataset=CardiacArrhythmia
+
+http://www.timeseriesclassification.com/description.php?Dataset=ECG5000
+
+# SIGNALS (ENGINEERING + TRAFFIC + SPACE)
+
+http://www.timeseriesclassification.com/description.php?Dataset=MelbournePedestrian
+
+https://paperswithcode.com/dataset/pemsd8
+
+http://www.timeseriesclassification.com/description.php?Dataset=KeplerLightCurves
+
+https://www.zooniverse.org/projects/rsengar/einstein-at-home-pulsar-seekers
