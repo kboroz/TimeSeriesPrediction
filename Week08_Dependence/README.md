@@ -26,10 +26,6 @@ https://www.youtube.com/watch?v=eiP3oJ0Lkbs
 
 https://www.youtube.com/watch?v=kbK53gkPaRQ
 
-https://www.youtube.com/watch?v=sOXROWJ70Pg
-
-https://www.youtube.com/watch?v=XhAGTt3UO_w
-
 https://www.youtube.com/watch?v=osfZc35FgQQ
 
 OPTIONAL:
@@ -37,3 +33,7 @@ OPTIONAL:
 https://www.youtube.com/playlist?list=PLPjEEUWIWhQV7X6dXfrVP3w0KBBLBVJ0j
 
 https://www.youtube.com/playlist?list=PLY11JnnnTUCabY4nc0hKptrd5qEWtLoo2
+
+https://www.youtube.com/watch?v=sOXROWJ70Pg
+
+https://www.youtube.com/watch?v=XhAGTt3UO_w
