@@ -2,8 +2,6 @@
 
 ALL REQUIRED:
 
-https://www.youtube.com/playlist?list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z
-
 https://www.youtube.com/watch?v=ZjC8iDUST0E
 
 OPTIONAL:
