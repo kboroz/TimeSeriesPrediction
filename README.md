@@ -1,18 +1,11 @@
-# RNNs + LSTMs + GRUs:
+# Advanced Time Series Prediction - edu.opencampus.sh
 
-ALL REQUIRED:
+This repo contains the material for the "Advanced Time Series Prediction" course offered by opencampus.sh
 
-https://www.youtube.com/watch?v=AsNTP8Kwu80
+We try to fill the gap from elemantary time-series tools to the most recent develpoments in the field.
 
-https://www.youtube.com/watch?v=YCzL96nL7j0
+Application and usability are our main drivers. Watch the YouTube-videos - try out the Python notebooks.
 
-https://www.youtube.com/watch?v=RHGiXPuo_pI
+Get happy and more proficient with your own time-series data.
 
-https://www.youtube.com/watch?v=B_a0K2Uj85Q
-
-OPTIONAL:
-
-https://www.youtube.com/watch?v=xcbj0RE3kfI
-
-
-
+Like, subscribe, hit the bell-button ..... you know how it works..... ;-)
