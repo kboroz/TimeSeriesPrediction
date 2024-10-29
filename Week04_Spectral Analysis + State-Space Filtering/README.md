@@ -14,6 +14,8 @@ https://www.youtube.com/watch?v=sa7E9qUHYXw
 
 https://www.youtube.com/watch?v=s2K1JfNR7Sc
 
+https://www.youtube.com/playlist?list=PLmXXQ1iFwiyJxArw8tz_mnZfrVQ2B_FuH
+
 OPTIONAL:
 
 https://www.youtube.com/playlist?list=PL6Vi_EcJpt8E96_JTKoOKY3HYWVGjf6b4
