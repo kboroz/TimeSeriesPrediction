@@ -14,6 +14,8 @@ OPTIONAL:
 
 # VAEs + GANs:
 
+https://www.youtube.com/playlist?list=PLSgGvve8UweFoMyAEFlFiE--JtWect5-T
+
 https://www.youtube.com/watch?v=q222maQaPYo
 
 https://www.youtube.com/watch?v=6S2v7G-OupA
