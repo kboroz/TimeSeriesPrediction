@@ -2,6 +2,12 @@
 
 ALL REQUIRED:
 
+https://www.youtube.com/watch?v=LFKZLXVO-Dg
+
+https://www.youtube.com/watch?v=GXhBEj1ZtE8
+
+https://www.youtube.com/watch?v=-VgHk7UMPP4&t=60s
+
 https://www.youtube.com/watch?v=ZjC8iDUST0E
 
 OPTIONAL:
