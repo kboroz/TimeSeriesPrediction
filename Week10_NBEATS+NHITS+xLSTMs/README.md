@@ -16,6 +16,10 @@ https://www.youtube.com/watch?v=8t64QaTdBcU
 
 https://www.youtube.com/watch?v=2ekL5oG6RVo
 
+https://www.youtube.com/watch?v=7r1-4LDJDmM
+
+https://www.youtube.com/watch?v=KuRpxvMMrlk&t=50s
+
 OPTIONAL:
 
 https://www.youtube.com/watch?v=lotzOJuwxYs
