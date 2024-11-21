@@ -16,6 +16,8 @@ https://www.youtube.com/watch?v=T5wB7pk3CUc
 
 https://www.youtube.com/watch?v=qy41dXGbAxY
 
+https://icerm.brown.edu/video_archive/2586
+
 OPTIONAL:
 
 https://www.youtube.com/playlist?list=PLKsJFg6SO0Ujr6tZHSImQ50vuNPoZ3NOl
