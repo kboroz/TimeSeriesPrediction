@@ -38,7 +38,3 @@ https://www.youtube.com/playlist?list=PLY11JnnnTUCabY4nc0hKptrd5qEWtLoo2
 
 https://www.youtube.com/playlist?list=PLCvalHOi_pas_fwOM9sR6Cca80lDI8s-8
 
-https://www.youtube.com/watch?v=XhAGTt3UO_w
-
-
-
