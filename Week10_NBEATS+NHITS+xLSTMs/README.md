@@ -1,4 +1,4 @@
-# NBEATS(x) + NHITS + (x)LSTM + LMUs
+# NBEATS(x) + NHITS + (x)LSTMs + LMUs
 
 ALL REQUIRED:
 
