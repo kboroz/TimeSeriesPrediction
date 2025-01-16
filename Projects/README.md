@@ -10,6 +10,8 @@ https://github.com/philipperemy/FX-1-Minute-Data
 
 https://www.boerse-frankfurt.de/aktien/offenes-orderbuch/DE0008469008
 
+https://www.bankofcanada.ca/rates/interest-rates/bond-yield-curves/
+
 https://pfandbrief.market/spreaddaten-jumbo-pfandbriefe-und-emissionen-ab-500-mio-euro/
 
 # ENERGY:
