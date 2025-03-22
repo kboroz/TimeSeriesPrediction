@@ -19,3 +19,5 @@ OPTIONAL:
 https://www.youtube.com/watch?v=o7cUF25hAbo
 
 https://www.youtube.com/watch?v=ajI8y8wnV1I
+
+https://medium.com/geekculture/boruta-feature-selection-explained-in-python-7ae8bf4aa1e7
