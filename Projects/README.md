@@ -75,6 +75,7 @@ https://github.com/AnnaValentinaHirsch/solar-prediction
 # Winter term 2024
 
 https://github.com/ChristopherKunze-Git/AdvancedTimeSeriesCourse-Engineering-Data
+Winner of the **VDE Machine Learning Prize** - Congratulations to the "Blood Glucose Forecasting"-Team
 
 https://github.com/Timson1235/energy-timeseries-project
 
