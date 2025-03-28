@@ -1,6 +1,6 @@
 Statsmodels provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration.
 
-    https://www.statsmodels.org/stable/index.html   
+https://www.statsmodels.org/stable/index.html   
 
  
 Grafana is an open-source data visualization and monitoring suite. It supports time series data and allows users to create dashboards for monitoring and alerting.
