@@ -64,10 +64,20 @@ https://www.zooniverse.org/projects/rsengar/einstein-at-home-pulsar-seekers
 
 # PREVIUOS PROJECTS = REFERENCES
 
+# Summer term 2023
+
 https://github.com/YannickKae/Financial-Market-Regime-Classification
 
+# Summer term 2024
+ 
 https://github.com/AnnaValentinaHirsch/solar-prediction
+
+# Winter term 2024
 
 https://github.com/ChristopherKunze-Git/AdvancedTimeSeriesCourse-Engineering-Data
 
 https://github.com/Timson1235/energy-timeseries-project
+
+# Summer term 2025
+
+tbc.
