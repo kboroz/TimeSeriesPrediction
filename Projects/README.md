@@ -6,6 +6,12 @@ https://investpy.readthedocs.io/index.html
 
 https://github.com/mortada/fredapi
 
+https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
+
+https://www.aqr.com/Insights/Datasets
+
+https://firstratedata.com/i/index/DAX
+
 https://github.com/philipperemy/FX-1-Minute-Data
 
 https://www.boerse-frankfurt.de/aktien/offenes-orderbuch/DE0008469008
@@ -13,6 +19,8 @@ https://www.boerse-frankfurt.de/aktien/offenes-orderbuch/DE0008469008
 https://www.bankofcanada.ca/rates/interest-rates/bond-yield-curves/
 
 https://pfandbrief.market/spreaddaten-jumbo-pfandbriefe-und-emissionen-ab-500-mio-euro/
+
+https://github.com/Mcompetitions/M6-methods
 
 # ENERGY:
 
