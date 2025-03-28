@@ -27,3 +27,5 @@ https://unit8co.github.io/darts/index.html
 https://nixtlaverse.nixtla.io/
 
 https://github.com/Nixtla/nixtla/tree/main/experiments/foundation-time-series-arena
+
+https://medium.com/@sarowar.saurav10/20-advanced-statistical-approaches-every-data-scientist-should-know-ccc70ae4df28
