@@ -61,3 +61,13 @@ https://paperswithcode.com/dataset/pemsd8
 http://www.timeseriesclassification.com/description.php?Dataset=KeplerLightCurves
 
 https://www.zooniverse.org/projects/rsengar/einstein-at-home-pulsar-seekers
+
+# PREVIUOS PROJECTS = REFERENCES
+
+https://github.com/YannickKae/Financial-Market-Regime-Classification
+
+https://github.com/AnnaValentinaHirsch/solar-prediction
+
+https://github.com/ChristopherKunze-Git/AdvancedTimeSeriesCourse-Engineering-Data
+
+https://github.com/Timson1235/energy-timeseries-project
