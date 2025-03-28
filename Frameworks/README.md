@@ -1,4 +1,4 @@
-Statsmodels provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration.
+$Statsmodels$ provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration.
 
 https://www.statsmodels.org/stable/index.html   
 
