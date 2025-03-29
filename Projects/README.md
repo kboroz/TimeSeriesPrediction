@@ -62,7 +62,7 @@ http://www.timeseriesclassification.com/description.php?Dataset=KeplerLightCurve
 
 https://www.zooniverse.org/projects/rsengar/einstein-at-home-pulsar-seekers
 
-# PREVIUOS PROJECTS = REFERENCES
+# PREVIOUS PROJECTS = REFERENCES
 
 # Summer term 2023
 
