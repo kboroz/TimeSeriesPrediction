@@ -4,7 +4,7 @@ This repo contains the material for the "Advanced Time Series Prediction" course
 
 We try to fill the gap from elemantary time-series tools to the most recent develpoments in the field.
 
-Application and usability are our main drivers. Watch the YouTube-videos - try out the Python notebooks.
+Application and usability are our main drivers. Watch the Videos - try out the Python notebooks.
 
 Get happy and more proficient with your own time-series data.
 
