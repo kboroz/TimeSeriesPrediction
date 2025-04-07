@@ -1,3 +1,29 @@
+# PREVIOUS PROJECTS = REFERENCES
+
+# Summer term 2023
+
+https://github.com/YannickKae/Financial-Market-Regime-Classification
+
+# Summer term 2024
+ 
+https://github.com/AnnaValentinaHirsch/solar-prediction
+
+# Winter term 2024
+
+https://github.com/ChristopherKunze-Git/AdvancedTimeSeriesCourse-Engineering-Data
+
+Winner of the **VDE Machine Learning Prize** - Congratulations to the "Blood Glucose Forecasting"-Team
+
+https://github.com/Timson1235/energy-timeseries-project
+
+# Summer term 2025
+
+tbc.
+
+# ###########################################################
+# POTENTIAL TOPICS - FIND SOMETHING THAT MOTIVATES YOU
+# ###########################################################
+
 # FINANCE + ECONOMICS:
 
 https://github.com/ranaroussi/yfinance
@@ -62,24 +88,4 @@ http://www.timeseriesclassification.com/description.php?Dataset=KeplerLightCurve
 
 https://www.zooniverse.org/projects/rsengar/einstein-at-home-pulsar-seekers
 
-# PREVIOUS PROJECTS = REFERENCES
 
-# Summer term 2023
-
-https://github.com/YannickKae/Financial-Market-Regime-Classification
-
-# Summer term 2024
- 
-https://github.com/AnnaValentinaHirsch/solar-prediction
-
-# Winter term 2024
-
-https://github.com/ChristopherKunze-Git/AdvancedTimeSeriesCourse-Engineering-Data
-
-Winner of the **VDE Machine Learning Prize** - Congratulations to the "Blood Glucose Forecasting"-Team
-
-https://github.com/Timson1235/energy-timeseries-project
-
-# Summer term 2025
-
-tbc.
