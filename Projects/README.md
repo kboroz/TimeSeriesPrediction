@@ -32,6 +32,8 @@ tbc.
 
 https://github.com/ranaroussi/yfinance
 
+https://www.sg-zertifikate.de/market-overview
+
 https://investpy.readthedocs.io/index.html
 
 https://github.com/mortada/fredapi
