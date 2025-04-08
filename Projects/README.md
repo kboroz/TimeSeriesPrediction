@@ -1,3 +1,7 @@
+# Project-Template
+
+https://github.com/opencampus-sh/ml-project-template
+
 # PREVIOUS PROJECTS = REFERENCES
 
 # Summer term 2023
