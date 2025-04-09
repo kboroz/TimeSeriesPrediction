@@ -2,11 +2,6 @@
 
 https://www.statsmodels.org/stable/index.html   
 
- 
-**Grafana** is an open-source data visualization and monitoring suite. It supports time series data and allows users to create dashboards for monitoring and alerting.
-
-https://grafana.com/
-
 **Arch** is a Python library for volatility modeling in financial time series. It offers tools for fitting, simulating, and forecasting volatility models.
 
 https://arch.readthedocs.io/en/latest/index.html
@@ -62,3 +57,7 @@ https://github.com/Nixtla/nixtla/tree/main/experiments/foundation-time-series-ar
 This medium article discusses a list of advanced statistical approaches that data scientists should know.
 
 https://medium.com/@sarowar.saurav10/20-advanced-statistical-approaches-every-data-scientist-should-know-ccc70ae4df28
+
+**Grafana** is an open-source data visualization and monitoring suite. It supports time series data and allows users to create dashboards for monitoring and alerting.
+
+https://grafana.com/
