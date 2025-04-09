@@ -1,3 +1,13 @@
+**HIGHLY RECOMMENDED**
+
+**Udemy**
+
+**Master Time Series Analysis and Forecasting with Python 2025**
+
+https://www.udemy.com/course/forecasting-python/
+
+**RECOMMENDED**
+
 **The State University of New York**
 
 **Practical Time Series Analysis**
@@ -16,12 +26,6 @@ https://www.coursera.org/learn/illinois-tech-introduction-to-time-series
 
 https://www.coursera.org/specializations/bayesian-statistics
 
-
-**Udemy**
-
-**Master Time Series Analysis and Forecasting with Python 2025**
-
-https://www.udemy.com/course/forecasting-python/
 
 **edX**
 
