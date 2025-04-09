@@ -1,4 +1,6 @@
-**HIGHLY RECOMMENDED**
+# **HIGHLY RECOMMENDED**
+
+"One of the best courses out there right now" - 9. April 2025
 
 **Udemy**
 
@@ -6,7 +8,11 @@
 
 https://www.udemy.com/course/forecasting-python/
 
-**RECOMMENDED**
+
+
+# **RECOMMENDED**
+
+Very good courses. Recap quite a lot of time series fundamentals.
 
 **The State University of New York**
 
@@ -26,6 +32,8 @@ https://www.coursera.org/learn/illinois-tech-introduction-to-time-series
 
 https://www.coursera.org/specializations/bayesian-statistics
 
+
+# **Topic-Related Courses**
 
 **edX**
 
