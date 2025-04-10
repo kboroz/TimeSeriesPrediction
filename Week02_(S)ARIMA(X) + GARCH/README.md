@@ -4,9 +4,11 @@ https://www.youtube.com/playlist?list=PLtIY5kwXKny91_IbkqcIXuv6t1prQwFhO
 
 https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3
 
-GARCH-Models:
+OPTIONAL:
 
-REQUIRED:
+If your focus is one financial data 
+
+Check-out some GARCH-Models:
 
 https://www.youtube.com/playlist?list=PLzAfHlPtM1I4bPhNE5FKOi0S7erZqm5pg
 
