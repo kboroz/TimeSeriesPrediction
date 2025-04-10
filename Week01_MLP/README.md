@@ -1,4 +1,4 @@
-ALL REQUIRED:
+ALL RECOMMENDED - WATCH AT LEAST ONE OF THE VIDEOS/PLAYLISTS:
 
 https://www.youtube.com/watch?v=Prpu_U5tKkE
 
