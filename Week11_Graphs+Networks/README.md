@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=Gs5YvZL_3ig
 
 https://www.youtube.com/watch?v=ECJ2DdPhMxI
 
-OPTIONAL:
+# OPTIONAL MATERIAL:
 
 http://networksciencebook.com/
 
