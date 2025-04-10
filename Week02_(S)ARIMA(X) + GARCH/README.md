@@ -14,7 +14,7 @@ https://www.youtube.com/playlist?list=PLzAfHlPtM1I4bPhNE5FKOi0S7erZqm5pg
 
 https://www.youtube.com/playlist?list=PLzAfHlPtM1I7jej6_SxBAbBR-XQM0SBn0
 
-OPTIONAL:
+ADDITIONAL MATERIAL:
 
 https://www.youtube.com/playlist?list=PL0vEWJI_pj7SWa-cOUZZlHtpMQ7ULrTdY
 
