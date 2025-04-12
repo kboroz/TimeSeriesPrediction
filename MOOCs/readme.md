@@ -1,6 +1,6 @@
 # **HIGHLY RECOMMENDED**
 
-"One of the best courses out there right now" - 9. April 2025
+"The best course out there right now" - 9. April 2025
 
 **Udemy**
 
