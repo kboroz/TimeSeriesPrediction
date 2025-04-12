@@ -35,8 +35,15 @@ https://www.coursera.org/specializations/bayesian-statistics
 
 # **Topic-Related Courses**
 
-**edX**
-
 **IMFx: Macroeconometric Forecasting**
 
 https://www.edx.org/learn/macroeconometric-forecasting/the-international-monetary-fund-macroeconometric-forecasting
+
+**EPFL: Digital Signal Prosessing**
+https://www.coursera.org/specializations/digital-signal-processing
+
+**Boulder University: Applied Kalman Filtering**
+https://www.coursera.org/specializations/kalman-filtering-applied
+
+**Universitat Pompeu Fabra of Barcelona + Stanford University**
+https://www.coursera.org/learn/audio-signal-processing
