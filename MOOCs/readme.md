@@ -39,7 +39,7 @@ https://www.coursera.org/specializations/bayesian-statistics
 
 https://www.edx.org/learn/macroeconometric-forecasting/the-international-monetary-fund-macroeconometric-forecasting
 
-**EPFL: Digital Signal Prosessing**
+**EPFL: Digital Signal Processing**
 
 https://www.coursera.org/specializations/digital-signal-processing
 
