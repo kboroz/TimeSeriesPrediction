@@ -2,8 +2,6 @@
 
 ALL REQUIRED:
 
-https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
-
 https://www.youtube.com/watch?v=viZrOnJclY0
 
 https://www.youtube.com/watch?v=L8HKweZIOmg
@@ -21,5 +19,7 @@ https://www.youtube.com/watch?v=Zfg52zerdJA
 https://www.youtube.com/watch?v=V14qoa5vZ1I
 
 OPTIONAL:
+
+https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
 
 https://www.youtube.com/watch?v=RZQJk0hf3sI
