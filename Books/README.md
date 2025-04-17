@@ -55,3 +55,10 @@ https://github.com/marcopeix/TimeSeriesForecastingInPython/tree/master
 https://www.oreilly.com/library/view/forecasting-time-series/9781800568532/
 
 https://github.com/dataman-git/modern-time-series/tree/main
+
+# https://www.manning.com/books/time-series-forecasting-using-foundation-models
+# 2024
+
+https://www.manning.com/books/time-series-forecasting-using-foundation-models
+
+https://github.com/marcopeix/TimeSeriesForecastingUsingFoundationModels
