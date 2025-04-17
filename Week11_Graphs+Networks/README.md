@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=Gs5YvZL_3ig
 
 https://www.youtube.com/watch?v=ECJ2DdPhMxI
 
-# OPTIONAL MATERIAL:
+# ADDITIONAL MATERIAL:
 
 https://www.youtube.com/watch?v=VXyGd8JiYjs
 
