@@ -20,6 +20,8 @@ https://www.youtube.com/watch?v=UBDgSHPxVME
 
 OPTIONAL:
 
+https://www.youtube.com/playlist?list=PL05umP7R6ij2YE8rRJSb-olDNbntAQ_Bx
+
 # Random Matrix Theory:
 
 REQUIRED:
