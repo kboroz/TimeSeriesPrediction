@@ -1,8 +1,10 @@
-ALL REQUIRED:
+IF YOU WANT TO RECAP CART + RANDOM FORESTS:
 
 https://www.youtube.com/playlist?list=PLblh5JKOoLUKAtDViTvRGFpphEc24M-QH
 
 https://www.youtube.com/playlist?list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk
+
+ALL REQUIRED:
 
 https://www.youtube.com/playlist?list=PLblh5JKOoLUJjeXUvUE0maghNuY2_5fY6
 
