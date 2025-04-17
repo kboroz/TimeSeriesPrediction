@@ -2,8 +2,6 @@
 
 ALL REQUIRED:
 
-https://www.youtube.com/watch?v=j0eioK5edqg
-
 https://www.youtube.com/watch?v=KvLG1uTC-KU
 
 https://www.youtube.com/watch?v=xcbj0RE3kfI
@@ -11,6 +9,8 @@ https://www.youtube.com/watch?v=xcbj0RE3kfI
 https://www.youtube.com/watch?v=B_a0K2Uj85Q
 
 OPTIONAL:
+
+https://www.youtube.com/watch?v=j0eioK5edqg
 
 # VAEs + GANs:
 
