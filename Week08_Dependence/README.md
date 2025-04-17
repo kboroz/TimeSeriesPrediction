@@ -34,6 +34,8 @@ https://www.youtube.com/watch?v=sOXROWJ70Pg
 
 https://www.youtube.com/watch?v=XhAGTt3UO_w
 
+OPTIONAL:
+
 RMT - Lecture-Series:
 
 https://www.youtube.com/playlist?list=PLPjEEUWIWhQV7X6dXfrVP3w0KBBLBVJ0j
