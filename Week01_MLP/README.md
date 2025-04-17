@@ -1,4 +1,4 @@
-ALL RECOMMENDED - WATCH AT LEAST ONE OF THE VIDEOS/PLAYLISTS:
+ALL RECOMMENDED - Watch at Least ONE of the Video-Playlists:
 
 https://www.youtube.com/playlist?list=PL0rM26FV6611AJD1bOdfbwxAZuZiuHR8i
 
