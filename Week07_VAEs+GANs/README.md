@@ -1,20 +1,31 @@
-# Facebook-Prophet + Amazon-DeepAR/GPVAR:
+# Facebook-Prophet 
 
 ALL REQUIRED:
 
 https://www.youtube.com/watch?v=KvLG1uTC-KU
 
-https://www.youtube.com/watch?v=xcbj0RE3kfI
-
-https://www.youtube.com/watch?v=B_a0K2Uj85Q
-
 OPTIONAL:
 
 https://www.youtube.com/watch?v=j0eioK5edqg
 
-# VAEs + GANs:
+# Amazon-DeepAR/GPVAR:
+
+ALL REQUIRED:
+
+https://www.youtube.com/watch?v=xcbj0RE3kfI
+
+OPTIONAL:
+
+https://www.youtube.com/watch?v=B_a0K2Uj85Q
+
+
+# VAEs:
+
+ALL REQUIRED:
 
 https://www.youtube.com/watch?v=q222maQaPYo
+
+OPTIONAL:
 
 https://www.youtube.com/watch?v=S31E-ftRfQI&list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK&index=25
 
@@ -23,6 +34,10 @@ https://www.youtube.com/watch?v=u1vLJBwOFC8&list=PLZsOBAyNTZwYE5IM1g_3yNXuxaH_QR
 https://www.youtube.com/watch?v=6S2v7G-OupA&list=PLZsOBAyNTZwYE5IM1g_3yNXuxaH_QRSoJ&index=3
 
 https://www.youtube.com/watch?v=S31E-ftRfQI&list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK&index=26
+
+# GANs:
+
+ALL REQUIRED:
 
 https://www.youtube.com/playlist?list=PLSgGvve8UweFoMyAEFlFiE--JtWect5-T
 
