@@ -28,6 +28,8 @@ tbc.
 # POTENTIAL TOPICS - FIND SOMETHING THAT MOTIVATES YOU
 # ###########################################################
 
+https://www.kaggle.com/
+
 https://forecastingdata.org/
 
 # FINANCE + ECONOMICS:
