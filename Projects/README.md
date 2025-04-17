@@ -28,6 +28,8 @@ tbc.
 # POTENTIAL TOPICS - FIND SOMETHING THAT MOTIVATES YOU
 # ###########################################################
 
+https://forecastingdata.org/
+
 # FINANCE + ECONOMICS:
 
 https://github.com/ranaroussi/yfinance
