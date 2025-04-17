@@ -10,6 +10,8 @@ https://www.youtube.com/playlist?list=PLJYjjnnccKYDppALiJlHskU8md904FXgd
 
 OPTIONAL:
 
+https://www.youtube.com/playlist?list=PLNt9IHkgoaro2jbfyd7QMa_FzL2vstco5
+
 # Gaussian Processes:
 
 REQUIRED:
