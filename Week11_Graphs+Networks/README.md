@@ -16,7 +16,13 @@ https://www.youtube.com/watch?v=A-yKQamf2Fc
 
 https://www.youtube.com/watch?v=Rws9mf1aWUs
 
-Causal Inference:
+OPTIONAL:
+
+https://www.youtube.com/watch?v=8qPWcq0C4Pg
+
+# Causal Inference:
+
+ALL REQUIRED:
 
 https://www.youtube.com/watch?v=b8hzDzGWyGM
 
@@ -25,6 +31,10 @@ https://www.youtube.com/watch?v=QVQoV22pPak
 https://www.youtube.com/watch?v=wdXTb9g1-w0
 
 https://www.youtube.com/watch?v=ZjC8iDUST0E
+
+OPTIONAL:
+
+https://www.youtube.com/playlist?list=PLVppujud2yJoRnQTpHIKVe058uBxKgdWU
 
 # Fancy visualizations on spreading processes:
 
