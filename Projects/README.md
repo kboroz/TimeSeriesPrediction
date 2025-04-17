@@ -28,7 +28,15 @@ tbc.
 # POTENTIAL TOPICS - FIND SOMETHING THAT MOTIVATES YOU
 # ###########################################################
 
+# Competitions
+
 https://www.kaggle.com/
+
+https://www.datasource.ai/en
+
+https://numer.ai/
+
+https://www.drivendata.org/competitions/
 
 https://forecastingdata.org/
 
