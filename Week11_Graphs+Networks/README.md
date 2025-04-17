@@ -1,4 +1,4 @@
-# Graphs + Networks
+# Graphs + (Temporal) Networks
 
 ALL REQUIRED:
 
