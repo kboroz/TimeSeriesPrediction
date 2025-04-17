@@ -24,11 +24,17 @@ https://www.youtube.com/watch?v=pkZhtscaX1M
 
 OPTIONAL:
 
-https://www.youtube.com/watch?v=qy41dXGbAxY
+Rare Event Simulation:
 
 https://www.youtube.com/playlist?list=PLKsJFg6SO0Ujr6tZHSImQ50vuNPoZ3NOl
 
 https://www.youtube.com/playlist?list=PLKsJFg6SO0UgQD2erzgNKrJEnsnpKcBxX
+
+Anomalies:
+
+https://www.youtube.com/watch?v=qy41dXGbAxY
+
+Signatures:
 
 https://icerm.brown.edu/video_archive/2586
 
