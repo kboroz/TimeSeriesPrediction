@@ -1,4 +1,4 @@
-# Spectral Methods:
+# Spectral Methods + Filtering:
 
 REQUIRED:
 
