@@ -6,7 +6,7 @@ https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3
 
 OPTIONAL:
 
-If your focus is one financial data 
+If your focus is on financial data 
 
 Check-out some GARCH-Models:
 
