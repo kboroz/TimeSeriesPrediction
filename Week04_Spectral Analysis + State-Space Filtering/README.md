@@ -8,8 +8,6 @@ https://www.youtube.com/watch?v=spUNpyF58BY
 
 https://www.youtube.com/watch?v=WMOrCBxxgvA
 
-https://www.youtube.com/watch?v=sa7E9qUHYXw
-
 https://www.youtube.com/watch?v=s2K1JfNR7Sc
 
 https://www.youtube.com/playlist?list=PLmXXQ1iFwiyJxArw8tz_mnZfrVQ2B_FuH
