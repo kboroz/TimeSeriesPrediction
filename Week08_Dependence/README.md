@@ -22,11 +22,11 @@ OPTIONAL:
 
 REQUIRED:
 
+https://www.youtube.com/watch?v=eiP3oJ0Lkbs
+
 https://www.youtube.com/watch?v=osfZc35FgQQ
 
 OPTIONAL:
-
-https://www.youtube.com/watch?v=eiP3oJ0Lkbs
 
 https://www.youtube.com/watch?v=kbK53gkPaRQ
 
