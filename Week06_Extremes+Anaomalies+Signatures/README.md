@@ -4,7 +4,7 @@ ALL REQUIRED:
 
 Extreme Value Theory:
 
-https://www.youtube.com/playlist?list=PLvy_Rp6CaRZRCOzlPVL4SpjPiqm80KIpH
+https://www.youtube.com/playlist?list=PLehRIaqlxpEEHBsu9BSl53uhtCVQ9gM_k
 
 Anomalies:
 
