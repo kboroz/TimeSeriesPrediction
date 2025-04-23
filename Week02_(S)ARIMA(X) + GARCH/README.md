@@ -1,8 +1,10 @@
-ALL REQUIRED - Choose ONE of the playlists:
+REQUIRED:
 
 https://www.youtube.com/playlist?list=PLKmQjl_R9bYd32uHImJxQSFZU5LPuXfQe
 
 OPTIONAL:
+
+https://www.youtube.com/playlist?list=PLtIY5kwXKny91_IbkqcIXuv6t1prQwFhO
 
 https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3
 
