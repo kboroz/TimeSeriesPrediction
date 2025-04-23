@@ -102,8 +102,12 @@ http://www.timeseriesclassification.com/description.php?Dataset=MelbournePedestr
 
 https://paperswithcode.com/dataset/pemsd8
 
+https://paperswithcode.com/dataset/beijing
+
 http://www.timeseriesclassification.com/description.php?Dataset=KeplerLightCurves
 
 https://www.zooniverse.org/projects/rsengar/einstein-at-home-pulsar-seekers
 
 https://bayerninfo.de/en/about-bayerninfo-1/data-offer/public-transport-data
+
+https://paperswithcode.com/dataset/supplygraph
