@@ -104,6 +104,8 @@ https://paperswithcode.com/dataset/pemsd8
 
 https://paperswithcode.com/dataset/beijing
 
+https://www.kaggle.com/competitions/waveform-inversion
+
 http://www.timeseriesclassification.com/description.php?Dataset=KeplerLightCurves
 
 https://www.zooniverse.org/projects/rsengar/einstein-at-home-pulsar-seekers
