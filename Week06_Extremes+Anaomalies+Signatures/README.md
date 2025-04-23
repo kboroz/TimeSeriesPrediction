@@ -38,4 +38,6 @@ Signatures:
 
 https://icerm.brown.edu/video_archive/2586
 
+https://www.youtube.com/playlist?list=PLUbgZHsSoMEXELP8YJ7Jf863PNFaChact
+
 
