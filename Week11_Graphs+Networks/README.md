@@ -2,8 +2,6 @@
 
 ALL REQUIRED:
 
-https://www.youtube.com/watch?v=8qPWcq0C4Pg
-
 https://www.youtube.com/watch?v=LFKZLXVO-Dg
 
 https://www.youtube.com/watch?v=GXhBEj1ZtE8
@@ -17,6 +15,8 @@ https://www.youtube.com/watch?v=A-yKQamf2Fc
 https://www.youtube.com/watch?v=Rws9mf1aWUs
 
 OPTIONAL:
+
+https://www.youtube.com/watch?v=8qPWcq0C4Pg
 
 https://www.youtube.com/watch?v=8qPWcq0C4Pg
 
