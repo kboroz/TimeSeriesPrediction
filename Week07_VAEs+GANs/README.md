@@ -23,9 +23,7 @@ https://www.youtube.com/watch?v=B_a0K2Uj85Q
 
 ALL REQUIRED:
 
-https://www.youtube.com/watch?v=hZ4a4NgM3u0
-
-https://www.youtube.com/watch?v=q222maQaPYo
+https://www.youtube.com/playlist?list=PLmkOM-kwIYM72cGYD2ofVIrp6xoe9LVps
 
 OPTIONAL:
 
