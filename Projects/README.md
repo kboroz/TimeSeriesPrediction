@@ -48,6 +48,8 @@ https://www.sg-zertifikate.de/market-overview
 
 https://investpy.readthedocs.io/index.html
 
+https://github.com/fja05680/sp500
+
 https://github.com/mortada/fredapi
 
 https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
