@@ -28,6 +28,8 @@ tbc.
 # POTENTIAL TOPICS - FIND SOMETHING THAT MOTIVATES YOU
 # ###########################################################
 
+https://mrmaheshrajput.medium.com/neural-networks-and-llms-for-time-series-forecasting-db604e6bbf2e
+
 # Competitions
 
 https://www.kaggle.com/
