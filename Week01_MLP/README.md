@@ -8,6 +8,10 @@ https://www.youtube.com/playlist?list=PLqYFiz7NM_SMC4ZgXplbreXlRY4Jf4zBP
 
 # INFO on Cross-Validation:
 
+https://pub.towardsai.net/the-combinatorial-purged-cross-validation-method-363eb378a9c5
+
+https://pub.towardsai.net/combinatorial-purgedkfold-cross-validation-for-deep-reinforcement-learning-f8df689ca874
+
 Standard K-Fold CV
 
     Randomly splits data into K folds.
