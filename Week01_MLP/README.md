@@ -8,6 +8,8 @@ https://www.youtube.com/playlist?list=PLqYFiz7NM_SMC4ZgXplbreXlRY4Jf4zBP
 
 # INFO on Cross-Validation:
 
+https://medium.com/@ahmedfahad04/understanding-walk-forward-validation-in-time-series-analysis-a-practical-guide-ea3814015abf
+
 https://pub.towardsai.net/the-combinatorial-purged-cross-validation-method-363eb378a9c5
 
 https://pub.towardsai.net/combinatorial-purgedkfold-cross-validation-for-deep-reinforcement-learning-f8df689ca874
