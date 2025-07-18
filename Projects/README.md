@@ -44,11 +44,13 @@ https://forecastingdata.org/
 
 # FINANCE + ECONOMICS:
 
-https://github.com/ranaroussi/yfinance
-
 https://www.sg-zertifikate.de/market-overview
 
+https://github.com/ranaroussi/yfinance
+
 https://investpy.readthedocs.io/index.html
+
+https://eodhd.com/
 
 https://github.com/fja05680/sp500
 
