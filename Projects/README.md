@@ -22,7 +22,9 @@ https://github.com/Timson1235/energy-timeseries-project
 
 # Summer term 2025
 
-tbc.
+https://github.com/rmndrs89/advanced-time-series-prediction
+
+https://github.com/worldmansist/German-energy-Time-Series-analysis-
 
 # ###########################################################
 # POTENTIAL TOPICS - FIND SOMETHING THAT MOTIVATES YOU
