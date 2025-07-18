@@ -56,6 +56,8 @@ https://github.com/mortada/fredapi
 
 https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
 
+https://github.com/andymogul/SpilloverVolPrediction/tree/main
+
 https://www.aqr.com/Insights/Datasets
 
 https://firstratedata.com/i/index/DAX
