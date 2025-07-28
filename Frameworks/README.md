@@ -61,3 +61,7 @@ https://medium.com/@sarowar.saurav10/20-advanced-statistical-approaches-every-da
 **Grafana** is an open-source data visualization and monitoring suite. It supports time series data and allows users to create dashboards for monitoring and alerting.
 
 https://grafana.com/
+
+**Data Science for Energy System Modelling** is nice collection of tools used in energy forecasting
+
+https://fneum.github.io/data-science-for-esm/intro.html
