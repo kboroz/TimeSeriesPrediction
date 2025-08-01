@@ -26,6 +26,10 @@ https://github.com/rmndrs89/advanced-time-series-prediction
 
 https://github.com/worldmansist/German-energy-Time-Series-analysis-
 
+https://github.com/Ela200/FinanceGroup
+
+https://github.com/Metaphysicist1/Traffic-Data-Time-Series-Forecasting
+
 # ###########################################################
 # POTENTIAL TOPICS - FIND SOMETHING THAT MOTIVATES YOU
 # ###########################################################
