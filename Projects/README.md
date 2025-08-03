@@ -34,17 +34,13 @@ https://github.com/Metaphysicist1/Traffic-Data-Time-Series-Forecasting
 # POTENTIAL TOPICS - FIND SOMETHING THAT MOTIVATES YOU
 # ###########################################################
 
+# Nice review of potential models to implement 
+
 https://mrmaheshrajput.medium.com/neural-networks-and-llms-for-time-series-forecasting-db604e6bbf2e
 
 # Competitions
 
 https://www.kaggle.com/
-
-https://www.datasource.ai/en
-
-https://numer.ai/
-
-https://www.drivendata.org/competitions/
 
 https://forecastingdata.org/
 
@@ -86,13 +82,9 @@ https://www.energy-charts.info/?l=de&c=DE
 
 # ENVIRONMENT
 
-https://meteostat.net/de/station/10338?t=2017-01-01/2022-11-20
+https://meteostat.net/de/station/10338?t=2017-01-01/2025-08-01
 
 https://open-meteo.com/
-
-https://www.ecmwf.int/en/forecasts/datasets
-
-https://charts.ecmwf.int/products/graphcast_medium-mslp-wind850?base_time=202410230000&projection=opencharts_europe&valid_time=202410230000
 
 https://www.pegelonline.wsv.de/gast/start
 
