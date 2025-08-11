@@ -20,6 +20,8 @@ https://www.youtube.com/watch?v=8qPWcq0C4Pg
 
 https://www.youtube.com/watch?v=8qPWcq0C4Pg
 
+https://www.youtube.com/playlist?list=PLFE3A39A431A72D19
+
 # Causal Inference:
 
 ALL REQUIRED:
