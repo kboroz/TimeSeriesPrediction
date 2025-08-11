@@ -1,6 +1,6 @@
 # **HIGHLY RECOMMENDED**
 
-"The "BEST" course out there right now" - 9. April 2025
+"The "BEST" course out there right now" - 11. August 2025
 
 **Udemy**
 
@@ -8,6 +8,11 @@
 
 https://www.udemy.com/course/forecasting-python/
 
+**OpenHPI**
+
+**Time Series Analysis**
+
+https://open.hpi.de/courses/timeseries2025
 
 
 # **RECOMMENDED**
