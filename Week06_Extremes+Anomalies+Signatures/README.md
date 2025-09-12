@@ -46,5 +46,7 @@ https://www.youtube.com/playlist?list=PLUbgZHsSoMEXELP8YJ7Jf863PNFaChact
 
 https://www.youtube.com/watch?v=hzJWNi-fr5w
 
+Rough Paths:
 
+https://youtube.com/playlist?list=PLrLctLPAdPNvHGRGAfU2C8HWj2DaZwIf5&feature=shared
 
