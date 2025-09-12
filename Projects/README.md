@@ -104,6 +104,8 @@ http://www.timeseriesclassification.com/description.php?Dataset=ECG5000
 
 # SIGNALS (ENGINEERING + TRAFFIC + SPACE)
 
+https://data.nasa.gov/dataset/cmapss-jet-engine-simulated-data
+
 http://www.timeseriesclassification.com/description.php?Dataset=MelbournePedestrian
 
 https://paperswithcode.com/dataset/pemsd8
