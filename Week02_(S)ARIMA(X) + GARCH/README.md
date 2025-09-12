@@ -2,7 +2,17 @@ REQUIRED:
 
 https://www.youtube.com/playlist?list=PLKmQjl_R9bYd32uHImJxQSFZU5LPuXfQe
 
-OPTIONAL:
+OPTIONAL-1:
+
+https://youtube.com/playlist?list=PLyQSjcv8LwAEdY8Y2-ToVqiyuir1kCdOx&feature=shared
+
+https://youtube.com/playlist?list=PLyQSjcv8LwAE6Wmf4RWY4AuG_kGq1TNyZ&feature=shared
+
+https://youtube.com/playlist?list=PLyQSjcv8LwAHQgTWekHC_SqTlZzJuosET&feature=shared
+
+https://youtube.com/playlist?list=PLyQSjcv8LwAGvIw2KNX6IelIIJ5SQDYZZ&feature=shared
+
+OPTIONAL-2:
 
 https://www.youtube.com/playlist?list=PLtIY5kwXKny91_IbkqcIXuv6t1prQwFhO
 
