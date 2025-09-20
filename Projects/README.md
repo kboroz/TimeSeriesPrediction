@@ -58,6 +58,8 @@ https://github.com/fja05680/sp500
 
 https://github.com/mortada/fredapi
 
+https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting
+
 https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
 
 https://github.com/andymogul/SpilloverVolPrediction/tree/main
