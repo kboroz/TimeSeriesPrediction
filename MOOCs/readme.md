@@ -14,6 +14,8 @@ https://www.udemy.com/course/forecasting-python/
 
 https://open.hpi.de/courses/timeseries2025
 
+https://github.com/aihpi/kisz-time-series
+
 
 # **RECOMMENDED**
 
