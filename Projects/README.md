@@ -90,6 +90,8 @@ https://open-meteo.com/
 
 https://www.pegelonline.wsv.de/gast/start
 
+https://opensensemap.org/
+
 https://www.fao.org/faostat/en/#home
 
 # MEDICAL 
