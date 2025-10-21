@@ -18,6 +18,10 @@ https://pytorch-forecasting.readthedocs.io/en/stable/#
 
 https://ts.gluon.ai/stable/
 
+**Chronos**
+
+https://github.com/amazon-science/chronos-forecasting
+
 **Forecast** is a Github repository containing a collection of time series forecasting models and tools.
 
 https://github.com/tymefighter/Forecast
