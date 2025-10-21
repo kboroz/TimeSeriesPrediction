@@ -1,4 +1,27 @@
-Extreme Value Theory + Anomalies + Signatures:
+# Spectral Methods + Filtering:
+
+REQUIRED:
+
+https://www.youtube.com/watch?v=Gka11q5VfFI
+
+https://www.youtube.com/watch?v=spUNpyF58BY
+
+https://www.youtube.com/watch?v=WMOrCBxxgvA
+
+https://www.youtube.com/watch?v=s2K1JfNR7Sc
+
+OPTIONAL:
+
+https://www.youtube.com/playlist?list=PL6Vi_EcJpt8E96_JTKoOKY3HYWVGjf6b4
+
+https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC
+
+https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVXUvppZTYNHKQUD-oWys9
+
+https://www.youtube.com/watch?v=jnxqHcObNK4
+
+
+# Extreme Value Theory + Anomalies + Signatures:
 
 ALL REQUIRED:
 
@@ -28,19 +51,19 @@ Signatures:
 
 https://www.youtube.com/watch?v=pkZhtscaX1M
 
-OPTIONAL:
+# OPTIONAL:
 
-Rare Event Simulation:
+# Rare Event Simulation:
 
 https://www.youtube.com/playlist?list=PLKsJFg6SO0Ujr6tZHSImQ50vuNPoZ3NOl
 
 https://www.youtube.com/playlist?list=PLKsJFg6SO0UgQD2erzgNKrJEnsnpKcBxX
 
-Anomalies:
+# Anomalies:
 
 https://www.youtube.com/watch?v=qy41dXGbAxY
 
-Signatures:
+# Signatures:
 
 https://www.youtube.com/watch?v=GtJMLJqTUFc
 
@@ -52,6 +75,6 @@ https://www.youtube.com/playlist?list=PLUbgZHsSoMEXELP8YJ7Jf863PNFaChact
 
 https://www.youtube.com/watch?v=hzJWNi-fr5w
 
-Rough Paths:
+# Rough Paths:
 
 https://youtube.com/playlist?list=PLrLctLPAdPNvHGRGAfU2C8HWj2DaZwIf5&feature=shared
