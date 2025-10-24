@@ -44,6 +44,8 @@ https://www.kaggle.com/
 
 https://forecastingdata.org/
 
+https://huggingface.co/datasets/Salesforce/lotsa_data
+
 # FINANCE + ECONOMICS:
 
 https://www.sg-zertifikate.de/market-overview
