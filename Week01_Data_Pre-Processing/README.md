@@ -1,5 +1,13 @@
+# MUST READ !!
 
-# INFO on Cross-Validation:
+## A Survey of Deep Learning and Foundation Models for Time Series Forecasting
+
+https://arxiv.org/abs/2401.13912
+
+Nicely written article - covers the recent history and developments in the field.
+
+
+## INFO on Cross-Validation:
 
 https://medium.com/@ahmedfahad04/understanding-walk-forward-validation-in-time-series-analysis-a-practical-guide-ea3814015abf
 
