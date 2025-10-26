@@ -2,7 +2,7 @@
 
 ALL REQUIRED:
 
-https://www.youtube.com/watch?v=viZrOnJclY0
+Word2Vec: https://www.youtube.com/watch?v=viZrOnJclY0
 
 https://www.youtube.com/watch?v=L8HKweZIOmg
 
