@@ -4,7 +4,7 @@ ALL REQUIRED:
 
 https://www.youtube.com/watch?v=viZrOnJclY0
 
-https://www.youtube.com/watch?v=L8HKweZIOmg
+seq2seq: https://www.youtube.com/watch?v=L8HKweZIOmg
 
 https://www.youtube.com/watch?v=PSs6nxngL6k
 
