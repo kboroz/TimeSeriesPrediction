@@ -63,11 +63,11 @@ https://otexts.com/fpp2/
 ## YouTube-Playlists on Econometrics - from BSc to PhD:
 
 A full course in econometrics - undergraduate level - part 1
-https://www.youtube.com/playlist?list=PLwJRxp3blEvZyQBTTOM
 
-FRP_TDaSdly3gU
+https://www.youtube.com/playlist?list=PLwJRxp3blEvZyQBTTOMFRP_TDaSdly3gU
 
 A full course in econometrics - undergraduate level - part 2
+
 https://www.youtube.com/playlist?list=PLwJRxp3blEvb7P-7po9AxuBwquPv75LjU
 
 A graduate course in econometrics
