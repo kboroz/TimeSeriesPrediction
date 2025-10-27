@@ -106,7 +106,7 @@ https://github.com/Topaceminem/DCC-GARCH/blob/master/examples/dcc_garch_modeling
 
 ## Robert Engle V-Lab:
 
-Check the model specfifications at the bottom of the webapge
+Check the various model specifications at the bottom of the webapge
 
 Volatility Modeling Documentation
 
