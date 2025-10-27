@@ -48,7 +48,7 @@ https://www.youtube.com/playlist?list=PLzAfHlPtM1I4bPhNE5FKOi0S7erZqm5pg
 
 https://www.youtube.com/playlist?list=PLzAfHlPtM1I7jej6_SxBAbBR-XQM0SBn0
 
-# Additional valueable Links and References:
+# Additional valuable links and references:
 
 ## Time Series Analysis with Python
 
