@@ -10,3 +10,6 @@ https://www.youtube.com/watch?v=R63dU5w_djQ
 
 # LMU = Legendre Memory Units
 
+https://www.youtube.com/watch?v=8t64QaTdBcU
+
+https://www.youtube.com/watch?v=2ekL5oG6RVo
