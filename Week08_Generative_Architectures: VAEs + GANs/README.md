@@ -1,13 +1,3 @@
-# Facebook-Prophet 
-
-ALL REQUIRED:
-
-https://www.youtube.com/watch?v=KvLG1uTC-KU
-
-OPTIONAL:
-
-https://www.youtube.com/watch?v=j0eioK5edqg
-
 # Amazon-DeepAR/GPVAR:
 
 ALL REQUIRED:
