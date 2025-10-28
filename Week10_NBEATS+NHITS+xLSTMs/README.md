@@ -15,5 +15,3 @@ https://www.youtube.com/watch?v=p3Xc_TJU8SI
 https://www.youtube.com/watch?v=lotzOJuwxYs
 
 https://www.youtube.com/watch?v=0OaEv1a5jUM
-
-https://www.youtube.com/watch?v=KuRpxvMMrlk
