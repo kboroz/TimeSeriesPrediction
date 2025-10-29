@@ -1,12 +1,16 @@
-## OPTIONAL:
+# OPTIONAL-YouTube-Playlists:
+
+##  Signal Processing: An Introduction by Nathan Kutz
 
 https://www.youtube.com/playlist?list=PL6Vi_EcJpt8E96_JTKoOKY3HYWVGjf6b4
 
+##  Fourier Analysis [Data-Driven Science and Engineering] by Steve Brunton
+
 https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC
 
-https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVXUvppZTYNHKQUD-oWys9
+## Koopman Analysis
 
-https://www.youtube.com/watch?v=jnxqHcObNK4
+https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVXUvppZTYNHKQUD-oWys9
 
 
 ## Iain Explains Signals & Systems
@@ -44,6 +48,10 @@ https://en.wikipedia.org/wiki/Wigner_distribution_function
 ## Wigner quasiprobability
 
 https://en.wikipedia.org/wiki/Wigner_quasiprobability_distribution
+
+## Wavelets: a mathematical microscope
+
+https://www.youtube.com/watch?v=jnxqHcObNK4
 
 ## Time-frequency analysis
 
