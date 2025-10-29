@@ -1,4 +1,4 @@
-# Spectral Methods + Filtering:
+# Spectral Methods:
 
 https://www.youtube.com/watch?v=Gka11q5VfFI
 
