@@ -2,9 +2,15 @@
 
 ## If your focus is on financial data / non-stationary data
 
-## Check-out some GARCH-Models:
+## ARCH-GARCH Modeling
+
+https://youtube.com/playlist?list=PLyQSjcv8LwAE6Wmf4RWY4AuG_kGq1TNyZ&feature=shared
+
+## ARCH/GARCH Model
 
 https://www.youtube.com/playlist?list=PLzAfHlPtM1I4bPhNE5FKOi0S7erZqm5pg
+
+## Multivariate GARCH model
 
 https://www.youtube.com/playlist?list=PLzAfHlPtM1I7jej6_SxBAbBR-XQM0SBn0
 
