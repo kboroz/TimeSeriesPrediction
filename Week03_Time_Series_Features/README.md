@@ -1,10 +1,18 @@
 # Spectral Methods:
 
+## What is a power spectrum?
+
 https://www.youtube.com/watch?v=Gka11q5VfFI
+
+## But what is the Fourier Transform? A visual introduction.
 
 https://www.youtube.com/watch?v=spUNpyF58BY
 
+## Spectral Analysis in Python (Introduction)
+
 https://www.youtube.com/watch?v=WMOrCBxxgvA
+
+## Denoising Data with FFT [Python]
 
 https://www.youtube.com/watch?v=s2K1JfNR7Sc
 
