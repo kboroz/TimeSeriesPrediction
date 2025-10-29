@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=XPwCo4cqqt0
 
 https://www.youtube.com/watch?v=T5wB7pk3CUc
 
-Dynamic Time Warping:
+# Dynamic Time Warping:
 
 https://www.youtube.com/watch?v=_K1OsqCicBY
 
@@ -33,7 +33,8 @@ https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL
 
 #  Signatures:
 
-https://www.youtube.com/watch?v=pkZhtscaX1M
+https://www.youtube.com/watch?v=ArSWNKAtVFY
+
 
 # OPTIONAL:
 
@@ -67,7 +68,11 @@ https://www.youtube.com/watch?v=qy41dXGbAxY
 
 https://github.com/PieroPaialungaAI/AnomalyDetectionNixtla
 
-# Signatures:
+# Path Signatures:
+
+https://www.youtube.com/watch?v=DFQnNSvnPfw
+
+https://www.youtube.com/watch?v=pkZhtscaX1M
 
 https://www.youtube.com/watch?v=GtJMLJqTUFc
 
@@ -78,7 +83,5 @@ https://icerm.brown.edu/video_archive/2586
 https://www.youtube.com/playlist?list=PLUbgZHsSoMEXELP8YJ7Jf863PNFaChact
 
 https://www.youtube.com/watch?v=hzJWNi-fr5w
-
-# Rough Paths:
 
 https://youtube.com/playlist?list=PLrLctLPAdPNvHGRGAfU2C8HWj2DaZwIf5&feature=shared
