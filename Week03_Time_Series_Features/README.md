@@ -1,7 +1,5 @@
 # Spectral Methods + Filtering:
 
-REQUIRED:
-
 https://www.youtube.com/watch?v=Gka11q5VfFI
 
 https://www.youtube.com/watch?v=spUNpyF58BY
