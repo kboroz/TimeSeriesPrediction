@@ -48,6 +48,3 @@ Nice lecture series by Kevin Kotzé
 
 https://www.kevinkotze.org/teaching
 
-
-
-https://vlab.stern.nyu.edu/docs/correlation
