@@ -1,5 +1,3 @@
-# OPTIONAL-YouTube-Playlists:
-
 ##  Signal Processing: An Introduction by Nathan Kutz
 
 https://www.youtube.com/playlist?list=PL6Vi_EcJpt8E96_JTKoOKY3HYWVGjf6b4
@@ -11,7 +9,6 @@ https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC
 ## Koopman Analysis
 
 https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVXUvppZTYNHKQUD-oWys9
-
 
 ## Iain Explains Signals & Systems
 
