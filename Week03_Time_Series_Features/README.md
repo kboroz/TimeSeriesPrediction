@@ -21,11 +21,9 @@ https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVXUvppZTYNHKQUD-oWys9
 https://www.youtube.com/watch?v=jnxqHcObNK4
 
 
-# Extreme Value Theory + Anomalies + Signatures:
+# Extreme Value Theory
 
 ALL REQUIRED:
-
-Extreme Value Theory:
 
 https://youtu.be/YtwYtUDMHW0?feature=shared
 
@@ -35,7 +33,7 @@ https://youtu.be/dJjRASxh6X4?feature=shared
 
 https://youtu.be/W-3rIPGVbEo?feature=shared
 
-Anomalies:
+# Anomalies
 
 https://www.youtube.com/watch?v=XPwCo4cqqt0
 
@@ -47,7 +45,7 @@ https://www.youtube.com/watch?v=_K1OsqCicBY
 
 https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL
 
-Signatures:
+#  Signatures:
 
 https://www.youtube.com/watch?v=pkZhtscaX1M
 
