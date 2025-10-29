@@ -8,8 +8,6 @@ https://www.youtube.com/playlist?list=PLzAfHlPtM1I4bPhNE5FKOi0S7erZqm5pg
 
 https://www.youtube.com/playlist?list=PLzAfHlPtM1I7jej6_SxBAbBR-XQM0SBn0
 
-# Additional valuable links and references:
-
 ## Forecasting Volatility: Deep Dive into ARCH & GARCH Models
 
 https://medium.com/@corredaniel1500/forecasting-volatility-deep-dive-into-arch-garch-models-46cd1945872b
