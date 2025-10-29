@@ -10,20 +10,8 @@ https://www.youtube.com/watch?v=WMOrCBxxgvA
 
 https://www.youtube.com/watch?v=s2K1JfNR7Sc
 
-OPTIONAL:
-
-https://www.youtube.com/playlist?list=PL6Vi_EcJpt8E96_JTKoOKY3HYWVGjf6b4
-
-https://www.youtube.com/playlist?list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC
-
-https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVXUvppZTYNHKQUD-oWys9
-
-https://www.youtube.com/watch?v=jnxqHcObNK4
-
 
 # Extreme Value Theory
-
-ALL REQUIRED:
 
 https://youtu.be/YtwYtUDMHW0?feature=shared
 
