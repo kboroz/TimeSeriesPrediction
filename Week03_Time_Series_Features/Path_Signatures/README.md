@@ -1,3 +1,5 @@
+# Additional Videos:
+
 ##  [19/06/2020] L. Colmenarejo - Signatures of paths, the shuffle algebra, and de Bruijn's formula
 
 https://www.youtube.com/watch?v=DFQnNSvnPfw
@@ -25,3 +27,19 @@ https://www.youtube.com/watch?v=hzJWNi-fr5w
 ## Michel Bauer (2023) Rough paths for Physicist
 
 https://youtube.com/playlist?list=PLrLctLPAdPNvHGRGAfU2C8HWj2DaZwIf5&feature=shared
+
+# Additional links and references:
+
+## Time Series Forecasting and Simulations: Python Signature Transformation Method
+
+https://opendatascience.com/time-series-forecasting-and-simulations-python-signature-transformation-method/
+
+## An Introduction to Time Series Signatures
+
+https://quantdare.com/an-introduction-to-time-series-signatures/
+
+## SigCWGAN, a new generation GAN architecture for Time Series Generation.
+
+https://quantdare.com/sigcwgan-a-new-generation-gan-architecture-for-time-series-generation/
+
+https://github.com/SigCGANs/Conditional-Sig-Wasserstein-GANs
