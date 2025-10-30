@@ -13,7 +13,7 @@ https://github.com/PieroPaialungaAI/AnomalyDetectionNixtla
 https://www.youtube.com/playlist?list=PLmZlBIcArwhMJoGk5zpiRlkaHUqy5dLzL
 
 
-# Additional linls and references:
+# Additional links and references:
 
 ## Anomaly Detection in Time Series Using Statistical Analysis
 
