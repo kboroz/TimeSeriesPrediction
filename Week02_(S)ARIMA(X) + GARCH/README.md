@@ -16,6 +16,8 @@ https://filippomb.github.io/python-time-series-handbook/notebooks/06/unit-root-h
 
 https://www.kaggle.com/code/elvisesp/time-series-analysis-using-fractional-differencing/notebook
 
+https://arch.readthedocs.io/en/stable/univariate/univariate_volatility_modeling.html
+
 # REQUIRED: - Watch at Least ONE of the Video-Playlists:
 
 https://www.youtube.com/playlist?list=PL0rM26FV6611AJD1bOdfbwxAZuZiuHR8i
