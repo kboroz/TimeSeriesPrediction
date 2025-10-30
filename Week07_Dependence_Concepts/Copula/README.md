@@ -26,6 +26,10 @@ https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1758115
 
 https://arxiv.org/abs/2403.17580
 
+##  Encoding Time Series as Images - Gramian Angular Field Imaging
+
+https://medium.com/analytics-vidhya/encoding-time-series-as-images-b043becbdbf3
+
 ## Copula (probability theory)
 
 https://en.wikipedia.org/wiki/Copula_(probability_theory)
