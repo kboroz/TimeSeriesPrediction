@@ -51,3 +51,15 @@ https://github.com/SigCGANs/Conditional-Sig-Wasserstein-GANs
 ## SigNow - A tool for generating Signature nowcasts with economic data.
 
 https://github.com/datasciencecampus/SigNow_ONS_Turing
+
+## Rough Path Theory and Signatures Applied To Quantitative Finance - Part 1
+
+https://www.quantstart.com/articles/rough-path-theory-and-signatures-applied-to-quantitative-finance-part-1/
+
+## Machine Learning Technique Using the Signature Method for Automated Quality Control of Argo Profiles
+
+https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019EA001019
+
+## RoughPy’s documentation
+
+https://roughpy.org/index.html
