@@ -30,6 +30,10 @@ https://youtube.com/playlist?list=PLrLctLPAdPNvHGRGAfU2C8HWj2DaZwIf5&feature=sha
 
 # Additional links and references:
 
+## A rough path between mathematics and data science 
+
+https://datasig.ac.uk/examples
+
 ## Time Series Forecasting and Simulations: Python Signature Transformation Method
 
 https://opendatascience.com/time-series-forecasting-and-simulations-python-signature-transformation-method/
