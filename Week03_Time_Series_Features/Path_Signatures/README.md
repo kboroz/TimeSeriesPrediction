@@ -47,3 +47,7 @@ https://quantdare.com/an-introduction-to-time-series-signatures/
 https://quantdare.com/sigcwgan-a-new-generation-gan-architecture-for-time-series-generation/
 
 https://github.com/SigCGANs/Conditional-Sig-Wasserstein-GANs
+
+## SigNow - A tool for generating Signature nowcasts with economic data.
+
+https://github.com/datasciencecampus/SigNow_ONS_Turing
