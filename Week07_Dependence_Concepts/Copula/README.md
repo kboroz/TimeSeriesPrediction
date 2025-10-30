@@ -1,0 +1,63 @@
+## Correlation (Pearson, Spearman, and Kendall)
+
+https://www.kaggle.com/code/kiyoung1027/correlation-pearson-spearman-and-kendall/report
+
+## Attainable correlations
+
+https://stats.stackexchange.com/questions/41734/attainable-correlations-for-lognormal-random-variables
+
+## Myths About Associations
+
+https://www.tandfonline.com/doi/full/10.1080/00031305.2021.2004922
+
+## A New Coefficient of Correlation
+
+https://towardsdatascience.com/a-new-coefficient-of-correlation-64ae4f260310
+
+## A New Coefficient of Correlation
+
+https://medium.com/data-science/a-new-coefficient-of-correlation-64ae4f260310
+
+## A New Coefficient of Correlation
+
+https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1758115
+
+## Measuring Dependence between Events
+
+https://arxiv.org/abs/2403.17580
+
+## Copula (probability theory)
+
+https://en.wikipedia.org/wiki/Copula_(probability_theory)
+
+## Guide to copulas
+
+https://twiecki.io/blog/2018/05/03/copulas/
+
+## Copula - Multivariate joint distribution
+
+https://www.statsmodels.org/dev/examples/notebooks/generated/copula.html
+
+## Copula - statsmodels 0.14.1
+
+https://www.statsmodels.org/devel/distributions.html#copula
+
+## Copula-GARCH
+
+https://muarch.readthedocs.io/en/latest/examples/Copula-GARCH.html
+
+## pycop
+
+https://github.com/maximenc/pycop
+
+## Packages Copula TU Munich
+
+https://www.math.cit.tum.de/math/forschung/gruppen/statistics/vine-copula-models/packages-libraries/
+
+## Vine Copula Models - TU Munich
+
+https://www.math.cit.tum.de/math/forschung/gruppen/statistics/vine-copula-models/
+
+## TACTiS: Attentional Copulas
+
+https://github.com/servicenow/tactis
