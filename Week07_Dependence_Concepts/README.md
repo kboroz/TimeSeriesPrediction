@@ -12,7 +12,5 @@ https://www.youtube.com/watch?v=UBDgSHPxVME
 
 # Random Matrix Theory:
 
-https://www.youtube.com/watch?v=eiP3oJ0Lkbs
-
-https://www.youtube.com/watch?v=osfZc35FgQQ
+https://slideslive.com/38959830/motivating-questions-and-building-blocks
 
