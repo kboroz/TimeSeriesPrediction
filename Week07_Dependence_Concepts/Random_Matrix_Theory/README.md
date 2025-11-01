@@ -30,6 +30,8 @@ https://www.youtube.com/playlist?list=PLGlvUvKglfvrs1Hr9zUJEGd7aY-GJfjHK
 
 https://rolandspeicher.com/lectures/course-on-high-dimensional-analysis-random-matrices-and-machine-learning-summer-term-2023/
 
+https://www.youtube.com/playlist?list=PLY11JnnnTUCabY4nc0hKptrd5qEWtLoo2
+
 ## Random Matrix Theory and ML
 
 https://icml.cc/virtual/2021/tutorial/10840
