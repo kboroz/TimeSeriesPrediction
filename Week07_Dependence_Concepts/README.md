@@ -1,7 +1,5 @@
 # Copula:
 
-REQUIRED:
-
 https://www.youtube.com/watch?v=d_qvLDhkg00
 
 https://www.youtube.com/watch?v=IaSGqQa5O-M
