@@ -4,11 +4,7 @@ https://github.com/vdumoulin/conv_arithmetic?tab=readme-ov-file
 
 # Amazon-DeepAR/GPVAR:
 
-ALL REQUIRED:
-
 https://www.youtube.com/watch?v=xcbj0RE3kfI
-
-OPTIONAL:
 
 https://www.youtube.com/watch?v=B_a0K2Uj85Q
 
@@ -16,10 +12,7 @@ https://www.youtube.com/watch?v=B_a0K2Uj85Q
 
 https://www.youtube.com/watch?v=UEyCt2WWHWw
 
-
 # VAEs:
-
-ALL REQUIRED:
 
 https://www.youtube.com/playlist?list=PLmkOM-kwIYM72cGYD2ofVIrp6xoe9LVps
 
