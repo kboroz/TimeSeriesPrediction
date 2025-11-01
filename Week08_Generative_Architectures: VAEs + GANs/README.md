@@ -1,5 +1,7 @@
 # CNN - Convolutions:
 
+https://www.youtube.com/watch?v=HGwBXDKFk9I
+
 https://github.com/vdumoulin/conv_arithmetic?tab=readme-ov-file
 
 # Amazon-DeepAR/GPVAR:
