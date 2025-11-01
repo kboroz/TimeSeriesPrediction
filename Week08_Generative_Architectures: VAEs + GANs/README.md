@@ -1,3 +1,13 @@
+# CNN - Convolutions:
+
+https://github.com/vdumoulin/conv_arithmetic?tab=readme-ov-file
+
+https://www.youtube.com/watch?v=Ei0klF38CNs
+
+OPTIONAL:
+
+https://www.youtube.com/watch?v=ROLugVqjf00
+
 # Amazon-DeepAR/GPVAR:
 
 ALL REQUIRED:
@@ -29,13 +39,5 @@ ALL REQUIRED:
 
 https://www.youtube.com/playlist?list=PLSgGvve8UweFoMyAEFlFiE--JtWect5-T
 
-# CNN - Convolutions:
 
-https://github.com/vdumoulin/conv_arithmetic?tab=readme-ov-file
-
-https://www.youtube.com/watch?v=Ei0klF38CNs
-
-OPTIONAL:
-
-https://www.youtube.com/watch?v=ROLugVqjf00
 
