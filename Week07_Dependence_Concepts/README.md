@@ -1,7 +1,3 @@
-# High-Dimensional Probability 
-
-https://youtube.com/playlist?list=PLPjEEUWIWhQV7X6dXfrVP3w0KBBLBVJ0j&feature=shared
-
 # Copula:
 
 REQUIRED:
