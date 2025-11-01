@@ -26,6 +26,10 @@ https://arxiv.org/abs/2403.17580
 
 https://medium.com/analytics-vidhya/encoding-time-series-as-images-b043becbdbf3
 
+## Copulas
+
+https://www.youtube.com/playlist?list=PLNt9IHkgoaro2jbfyd7QMa_FzL2vstco5
+
 ## Copula (probability theory)
 
 https://en.wikipedia.org/wiki/Copula_(probability_theory)
