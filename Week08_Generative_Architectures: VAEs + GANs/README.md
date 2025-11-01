@@ -24,8 +24,6 @@ https://www.youtube.com/watch?v=S31E-ftRfQI
 
 https://www.youtube.com/watch?v=u1vLJBwOFC8
 
-https://www.youtube.com/watch?v=6S2v7G-OupA
-
 # GANs:
 
 ALL REQUIRED:
