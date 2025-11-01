@@ -18,6 +18,10 @@ OPTIONAL:
 
 https://www.youtube.com/watch?v=B_a0K2Uj85Q
 
+# VAEs and GANs - Xenia Miscouridou 
+
+https://www.youtube.com/watch?v=UEyCt2WWHWw
+
 
 # VAEs:
 
