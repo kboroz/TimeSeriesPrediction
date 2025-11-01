@@ -2,12 +2,6 @@
 
 https://github.com/vdumoulin/conv_arithmetic?tab=readme-ov-file
 
-https://www.youtube.com/watch?v=Ei0klF38CNs
-
-OPTIONAL:
-
-https://www.youtube.com/watch?v=ROLugVqjf00
-
 # Amazon-DeepAR/GPVAR:
 
 ALL REQUIRED:
@@ -42,6 +36,12 @@ https://www.youtube.com/watch?v=6S2v7G-OupA
 ALL REQUIRED:
 
 https://www.youtube.com/playlist?list=PLSgGvve8UweFoMyAEFlFiE--JtWect5-T
+
+https://www.youtube.com/watch?v=Ei0klF38CNs
+
+OPTIONAL:
+
+https://www.youtube.com/watch?v=ROLugVqjf00
 
 
 
