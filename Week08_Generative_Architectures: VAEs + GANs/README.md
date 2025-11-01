@@ -18,23 +18,9 @@ https://www.youtube.com/watch?v=UEyCt2WWHWw
 
 https://www.youtube.com/playlist?list=PLmkOM-kwIYM72cGYD2ofVIrp6xoe9LVps
 
-OPTIONAL:
-
-https://www.youtube.com/watch?v=S31E-ftRfQI
-
-https://www.youtube.com/watch?v=u1vLJBwOFC8
-
 # GANs:
 
-ALL REQUIRED:
-
 https://www.youtube.com/playlist?list=PLSgGvve8UweFoMyAEFlFiE--JtWect5-T
-
-https://www.youtube.com/watch?v=Ei0klF38CNs
-
-OPTIONAL:
-
-https://www.youtube.com/watch?v=ROLugVqjf00
 
 
 
