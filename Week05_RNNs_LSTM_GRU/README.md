@@ -41,3 +41,7 @@ https://www.youtube.com/watch?v=KvLG1uTC-KU
 OPTIONAL:
 
 https://www.youtube.com/watch?v=j0eioK5edqg
+
+## ARIMA vs Prophet vs LSTM for Time Series Prediction
+
+https://neptune.ai/blog/arima-vs-prophet-vs-lstm
