@@ -1,0 +1,15 @@
+https://arxiv.org/pdf/2202.07125
+https://www.sciencedirect.com/science/article/pii/S2666651022000146
+https://lilianweng.github.io/posts/2018-06-24-attention/
+https://github.com/TRUBA-HPC/mastering_transformers
+https://arxiv.org/abs/2211.14730
+https://arxiv.org/abs/2202.11356
+https://arxiv.org/abs/2106.01345
+https://github.com/2448845600/EasyTSF
+https://github.com/thuml/iTransformer
+https://github.com/thuml/TimeXer
+https://huggingface.co/blog/informer
+https://www.youtube.com/watch?v=M7O4VqRf8s4
+https://www.kaggle.com/code/tomwarrens/temporal-fusion-transformer-in-pytorch
+https://arxiv.org/abs/2205.13504
+https://arxiv.org/abs/2402.02592
