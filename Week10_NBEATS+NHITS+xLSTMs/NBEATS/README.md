@@ -1,3 +1,7 @@
+## Replicating the N-BEATS Algorithm
+
+https://www.mlq.ai/time-series-with-tensorflow-n-beats-algorithm/
+
 ## N-BEATS end-to-end demo
 
 https://gist.github.com/reachsumit/9b31afe74c560c9f804081af3e1b4a1d
