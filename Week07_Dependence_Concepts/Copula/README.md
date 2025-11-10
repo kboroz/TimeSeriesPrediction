@@ -1,31 +1,3 @@
-## Correlation (Pearson, Spearman, and Kendall)
-
-https://www.kaggle.com/code/kiyoung1027/correlation-pearson-spearman-and-kendall/report
-
-## Attainable correlations
-
-https://stats.stackexchange.com/questions/41734/attainable-correlations-for-lognormal-random-variables
-
-## Myths About Associations
-
-https://www.tandfonline.com/doi/full/10.1080/00031305.2021.2004922
-
-## A New Coefficient of Correlation
-
-https://towardsdatascience.com/a-new-coefficient-of-correlation-64ae4f260310
-
-## A New Coefficient of Correlation - Paper
-
-https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1758115
-
-## Measuring Dependence between Events
-
-https://arxiv.org/abs/2403.17580
-
-##  Encoding Time Series as Images - Gramian Angular Field Imaging
-
-https://medium.com/analytics-vidhya/encoding-time-series-as-images-b043becbdbf3
-
 ## Copulas
 
 https://www.youtube.com/playlist?list=PLNt9IHkgoaro2jbfyd7QMa_FzL2vstco5
