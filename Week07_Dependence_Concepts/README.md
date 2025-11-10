@@ -1,3 +1,7 @@
+# Gramian Angular Field
+
+https://www.youtube.com/watch?v=uJCNrDzomzY
+
 # Copula:
 
 https://www.youtube.com/watch?v=d_qvLDhkg00
