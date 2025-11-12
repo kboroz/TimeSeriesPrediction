@@ -54,6 +54,9 @@ https://www.coursera.org/specializations/digital-signal-processing
 
 https://www.coursera.org/specializations/kalman-filtering-applied
 
+**Efficient AI for Weather Forecasting**
+https://open.hpi.de/courses/weatherpredictions2025
+
 **Universitat Pompeu Fabra of Barcelona + Stanford University**
 
 https://www.coursera.org/learn/audio-signal-processing
