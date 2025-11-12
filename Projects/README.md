@@ -86,9 +86,13 @@ https://www.energy-charts.info/?l=de&c=DE
 
 # ENVIRONMENT
 
+https://open.hpi.de/courses/weatherpredictions2025
+
 https://meteostat.net/de/station/10338?t=2017-01-01/2025-08-01
 
 https://open-meteo.com/
+
+https://geodynamics.org/
 
 https://www.pegelonline.wsv.de/gast/start
 
