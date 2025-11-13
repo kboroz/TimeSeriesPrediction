@@ -84,6 +84,10 @@ https://github.com/Mcompetitions/M6-methods
 
 https://www.energy-charts.info/?l=de&c=DE
 
+https://www.smard.de/home
+
+https://www.bundesnetzagentur.de/DE/Fachthemen/Datenportal/start.html
+
 # ENVIRONMENT
 
 https://open.hpi.de/courses/weatherpredictions2025
