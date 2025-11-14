@@ -46,6 +46,10 @@ https://www.coursera.org/specializations/bayesian-statistics
 
 https://www.edx.org/learn/macroeconometric-forecasting/the-international-monetary-fund-macroeconometric-forecasting
 
+**Efficient AI for Weather Forecasting**
+
+https://open.hpi.de/courses/weatherpredictions2025
+
 **EPFL: Digital Signal Processing**
 
 https://www.coursera.org/specializations/digital-signal-processing
@@ -53,10 +57,6 @@ https://www.coursera.org/specializations/digital-signal-processing
 **Boulder University: Applied Kalman Filtering**
 
 https://www.coursera.org/specializations/kalman-filtering-applied
-
-**Efficient AI for Weather Forecasting**
-
-https://open.hpi.de/courses/weatherpredictions2025
 
 **Universitat Pompeu Fabra of Barcelona + Stanford University**
 
