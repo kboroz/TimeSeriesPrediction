@@ -1,18 +1,36 @@
+## Time2Lang: Bridging Time-Series Foundation Models and Large Language Models for Health Sensing Beyond Prompting
+
 https://arxiv.org/pdf/2502.07608
+
+## TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster
 
 https://arxiv.org/pdf/2503.07649
 
+## LangTime: A Language-Guided Unified Model for Time Series Forecasting with Proximal Policy Optimization
+
 https://arxiv.org/pdf/2503.08271
+
+## True Zero-Shot Inference of Dynamical Systems Preserving Long-Term Statistics
 
 https://arxiv.org/pdf/2505.13192
 
+## From Images to Signals: Are Large Vision Models Useful for Time Series Analysis?
+
 https://arxiv.org/pdf/2505.24030
+
+## RATFM: Retrieval-augmented Time Series Foundation Model for Anomaly Detection
 
 https://arxiv.org/pdf/2506.02081
 
+## Benchmarking Pre-Trained Time Series Models for Electricity Price Forecasting
+
 https://arxiv.org/pdf/2506.08113
 
+## Large Language models for Time Series Analysis: Techniques, Applications, and Challenges
+
 https://arxiv.org/pdf/2506.11040
+
+## TimeGPT’s Potential in Cryptocurrency Forecasting: Efficiency, Accuracy, and Economic Value
 
 https://www.mdpi.com/2571-9394/7/3/48
 
