@@ -1,4 +1,4 @@
-## https://neuralprophet.com/
+## NeuralProphet
 
 https://neuralprophet.com/
 
