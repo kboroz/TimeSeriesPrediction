@@ -1,0 +1,147 @@
+import numpy as np
+import pandas as pd
+import yfinance as yf
+from scipy.optimize import minimize
+
+tickers = [
+    "A", "AAPL", "ABBV", "ABNB", "ABT", "ACGL", "ACN", "ADBE", "ADI", "ADM", "ADP", "ADSK", "AEE", "AEP",
+    "AES", "AFL", "AIG", "AIZ", "AJG", "AKAM", "ALB", "ALGN", "ALL", "ALLE", "AMAT", "AMCR", "AMD", "AME",
+    "AMGN", "AMP", "AMT", "AMZN", "ANET", "AON", "AOS", "APA", "APD", "APH", "APO", "APTV", "ARE",
+    "ATO", "AVB", "AVGO", "AVY", "AWK", "AXON", "AXP", "AZO", "BA", "BAC", "BALL", "BAX", "BBY", "BDX", "BEN",
+    "BG", "BIIB", "BK", "BKNG", "BKR", "BLDR", "BLK", "BMY", "BR", "BRO", "BSX", "BX", "BXP",
+    "C", "CAG", "CAH", "CARR", "CAT", "CB", "CBOE", "CBRE", "CCI", "CCL", "CDNS", "CDW", "CEG", "CF", "CFG", "CHD",
+    "CHRW", "CHTR", "CI", "CINF", "CL", "CLX", "CMCSA", "CME", "CMG", "CMI", "CMS", "CNC", "CNP", "COF", "COIN", "COO",
+    "COP", "COR", "COST", "CPAY", "CPB", "CPRT", "CPT", "CRL", "CRM", "CRWD", "CSCO", "CSGP", "CSX", "CTAS", "CTRA",
+    "CTSH", "CTVA", "CVS", "CVX", "CZR", "D", "DAL", "DASH", "DAY", "DD", "DDOG", "DE", "DECK", "DELL", "DG", "DGX",
+    "DHI", "DHR", "DIS", "DLR", "DLTR", "DOC", "DOV", "DOW", "DPZ", "DRI", "DTE", "DUK", "DVA", "DVN", "DXCM", "EA",
+    "EBAY", "ECL", "ED", "EFX", "EG", "EIX", "EL", "ELV", "EMN", "EMR", "ENPH", "EPAM", "EQIX", "EQR", "EQT", "ERIE",
+    "ES", "ESS", "ETN", "ETR", "ETSY", "EVRG", "EW", "EXC", "EXE", "EXPD", "EXPE", "EXR", "F", "FANG", "FAST", "FCN",
+    "FCPT", "FCX", "FDS", "FDX", "FE", "FFIV", "FI", "FICO", "FIS", "FITB", "FISV", "FOSL", "FOX", "FOXA", "FRT", "FTNT",
+    "FTV", "G", "GD", "GDDY", "GE", "GEHC", "GEN", "GEV", "GILD", "GIS", "GL", "GLW", "GM", "GNRC", "GS", "GPC", "GPN",
+    "GRMN", "GWW", "HAL", "HAS", "HBAN", "HBI", "HCA", "HD", "HII", "HLT", "HOLX", "HON", "HPQ", "HRL",
+    "HSIC", "HST", "HSY", "HUBB", "HUM", "HWM", "IAC", "IBM", "ICE", "IDXX", "IEX", "IFF", "INCY", "INTC", "INTU", "INVH",
+    "IP", "IPG", "IQV", "IR", "IRM", "ISRG", "IT", "ITW", "IVZ", "J", "JBHT", "JBL", "JCI", "JKHY", "JNJ", "JPM",
+    "K", "KBH", "KDP", "KEY", "KEYS", "KHC", "KIM", "KKR", "KLAC", "KMB", "KMX", "KO", "KR", "KSS", "L", "LB",
+    "LDOS", "LEG", "LEN", "LH", "LHX", "LII", "LIN", "LKQ", "LLY", "LMT", "LNC", "LNT", "LOW", "LPX", "LRCX", "LULU",
+    "LUMN", "LUV", "LVS", "LW", "LYB", "LYV", "MA", "MAA", "MAC", "MAR", "MAS", "MCD", "MCHP", "MCK", "MCO", "MDLZ",
+    "MDT", "MKC", "MKTX", "MLM", "MMC", "MMM", "MNST", "MO", "MOH", "MOS", "MPC", "MPWR", "MRK", "MRNA", "MS", "MSCI",
+    "MSFT", "MSI", "MTB", "MTCH", "MTD", "NKE", "NOC", "NCLH", "NDAQ", "NDSN", "NEE", "NEM", "NFLX", "NI", "NKTR",
+    "NOC", "NOV", "NOW", "NRG", "NSC", "NTAP", "NTRS", "NUE", "NVDA", "NVR", "NWL", "NWS", "NWSA", "NXPI", "O", "ODFL",
+    "ODP", "OGN", "OKE", "OMC", "ON", "ORCL", "ORLY", "OTIS", "OXY", "PANW", "PAYC", "PAYX", "PCAR", "PCG", "PCH",
+    "PEG", "PENN", "PEP", "PFE", "PFG", "PG", "PGR", "PH", "PHM", "PKG", "PLD", "PLTR", "PM", "PNC",
+    "PNR", "PNW", "PODD", "POOL", "PPG", "PPL", "PWR", "PYPL", "QRVO", "RCL", "REG", "REGN", "RF", "RJF", "RL", "RMD",
+    "ROK", "ROL", "ROP", "ROST", "RSG", "RTX", "RVTY", "SBAC", "SBUX", "SCHW", "SCI", "SHW", "SIG", "SJM", "SLB", "SMCI",
+    "SNA", "SNPS", "SO", "SOLV", "SPG", "SPGI", "SRE", "STE", "STLD", "STT", "STX", "STZ", "SW", "SWK", "SWKS",
+    "SYF", "SYK", "SYY", "T", "TAP", "TDG", "TDY", "TECH", "TEL", "TER", "TFC", "TGT", "TJX", "TKO", "TMO", "TMUS",
+    "TPL", "TPR", "TRGP", "TRMB", "TROW", "TRV", "TSCO", "TSLA", "TSN", "TT", "TTWO", "TXN", "TXT", "TYL", "UAL",
+    "UBER", "UDR", "UHS", "ULTA", "UNH", "UNP", "UPS", "URI", "USB", "V", "VICI", "VLO", "VLTO", "VMC", "VRSK",
+    "VRSN", "VRTX", "VST", "VTR", "VTRS", "VZ", "WAB", "WAT", "WBD", "WDAY", "WDC", "WEC", "WELL", "WFC",
+    "WM", "WMB", "WMT", "WRB", "WSM", "WST", "WTW", "WY", "WYNN", "XEL", "XOM", "XYL", "YUM", "ZBH", "ZBRA", "ZTS"
+]
+
+start_date = "2024-01-01"
+end_date = "2025-06-30"
+risk_free_rate = 0.00
+max_weight = 0.15
+trading_days = 252
+
+# Downloading Price data
+print("Downloading data...")
+data = yf.download(
+    tickers,
+    start=start_date,
+    end=end_date,
+    auto_adjust=True
+)["Close"]
+
+# Remove tickers with no data or all NaN values
+data = data.dropna(axis=1, how='all')
+
+# Get the list of valid tickers (those that have data)
+valid_tickers = data.columns.tolist()
+print(f"\nValid tickers with data: {len(valid_tickers)} out of {len(tickers)}")
+
+# Find tickers with no data
+tickers_with_no_data = [t for t in tickers if t not in data.columns]
+print("Tickers with no data:", tickers_with_no_data)
+
+
+# Calculate returns
+returns = data.pct_change().dropna()
+
+# Remove any remaining columns with NaN values
+returns = returns.dropna(axis=1, how='any')
+valid_tickers = returns.columns.tolist()
+print(f"Tickers after removing NaN: {len(valid_tickers)}")
+
+# Calculate μ and Σ
+mu_daily = returns.mean()
+cov_daily = returns.cov()
+
+mu = mu_daily * trading_days
+Sigma = cov_daily * trading_days
+
+n = len(valid_tickers)
+
+# Objectives (Sharpe Ratio)
+def portfolio_return(w):
+    return np.dot(w, mu)
+
+def portfolio_vol(w):
+    return np.sqrt(w @ Sigma @ w)
+
+def portfolio_sharpe(w):
+    vol = portfolio_vol(w)
+    if vol == 0:
+        return 0
+    return (portfolio_return(w) - risk_free_rate) / vol
+
+def objective(w):
+    return -portfolio_sharpe(w)   # maximize Sharpe
+
+# Constraints and bounds
+constraints = (
+    {"type": "eq", "fun": lambda w: np.sum(w) - 1}
+)
+
+bounds = tuple((0, max_weight) for _ in range(n))
+
+# Initial values
+w0 = np.ones(n) / n
+if any(w0 > max_weight):
+    w0 = np.minimum(w0, max_weight)
+    w0 = w0 / np.sum(w0)
+
+# Optimization
+print("\nOptimizing portfolio...")
+result = minimize(
+    objective,
+    w0,
+    method="SLSQP",
+    bounds=bounds,
+    constraints=constraints,
+    options={"maxiter": 10000, "ftol": 1e-9}
+)
+
+if not result.success:
+    print("WARNING:", result.message)
+
+weights = result.x
+
+# Outputs
+output = pd.DataFrame({
+    "Ticker": valid_tickers,
+    "Weight": weights
+}).sort_values("Weight", ascending=False)
+
+# Only show non-zero weights
+output_filtered = output[output["Weight"] > 0.0001]
+
+print("\nOptimal Portfolio Weights (Non-zero positions):")
+print(output_filtered.to_string(index=False, float_format="%.4f"))
+
+print(f"\nNumber of positions: {len(output_filtered)}")
+print(f"\nExpected Annual Return:     {portfolio_return(weights):.4%}")
+print(f"Expected Annual Volatility: {portfolio_vol(weights):.4%}")
+print(f"Sharpe Ratio:               {portfolio_sharpe(weights):.4f}")
+print(f"Sum of weights:             {weights.sum():.4f}")
