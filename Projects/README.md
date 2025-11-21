@@ -64,6 +64,10 @@ https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting
 
 https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
 
+https://www.financialdatasets.ai/
+
+https://github.com/virattt/dexter
+
 https://github.com/andymogul/SpilloverVolPrediction/tree/main
 
 https://www.aqr.com/Insights/Datasets
