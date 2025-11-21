@@ -78,6 +78,8 @@ https://www.bankofcanada.ca/rates/interest-rates/bond-yield-curves/
 
 https://pfandbrief.market/spreaddaten-jumbo-pfandbriefe-und-emissionen-ab-500-mio-euro/
 
+https://mpelger.people.stanford.edu/data-and-code
+
 https://github.com/Mcompetitions/M6-methods
 
 # ENERGY:
