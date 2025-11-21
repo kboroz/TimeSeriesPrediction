@@ -17,3 +17,8 @@ https://www.nengo.ai/keras-lmu/examples/psMNIST.html
 ## SINDy
 
 https://en.wikipedia.org/wiki/Sparse_identification_of_non-linear_dynamics
+
+
+## Mamba
+
+https://youtu.be/ouF-H35atOY?si=AmZIgDDiBmNP-o27
