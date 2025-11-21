@@ -56,6 +56,10 @@ https://www.youtube.com/watch?v=sOXROWJ70Pg
 
 https://github.com/CalculatedContent/WeightWatcher-Examples
 
+## Michael W. Mahoney - "Random Matrix Theory and Modern Machine Learning"
+
+https://www.youtube.com/watch?v=K39u-TDwN4E
+
 ## pyRMT-1
 
 https://github.com/CalculatedContent/pyRMT-1
