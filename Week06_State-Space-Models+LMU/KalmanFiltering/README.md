@@ -33,3 +33,7 @@ https://forecastegy.com/posts/kalman-filter-for-time-series-forecasting-in-pytho
 ## Stone Soup
 
 https://stonesoup.readthedocs.io/en/latest/index.html
+
+## Kalman Filtering with Applications in Finance by Shengjie Xiu
+
+https://www.youtube.com/watch?v=R63dU5w_djQ
