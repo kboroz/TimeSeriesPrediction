@@ -6,6 +6,8 @@ https://youtube.com/playlist?list=PLyQSjcv8LwAGvIw2KNX6IelIIJ5SQDYZZ&feature=sha
 
 https://www.youtube.com/playlist?list=PLmXXQ1iFwiyJxArw8tz_mnZfrVQ2B_FuH
 
+https://forecastegy.com/posts/kalman-filter-for-time-series-forecasting-in-python/
+
 # LMU = Legendre Memory Units
 
 https://www.youtube.com/watch?v=8t64QaTdBcU
