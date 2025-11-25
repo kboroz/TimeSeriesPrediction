@@ -13,3 +13,5 @@ https://forecastegy.com/posts/kalman-filter-for-time-series-forecasting-in-pytho
 https://www.youtube.com/watch?v=8t64QaTdBcU
 
 https://www.youtube.com/watch?v=2ekL5oG6RVo
+
+https://medium.com/@ajayvikramp/ssms-for-efficient-long-range-memory-d6a78226c738
