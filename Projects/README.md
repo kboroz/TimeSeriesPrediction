@@ -62,6 +62,8 @@ https://github.com/mortada/fredapi
 
 https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting
 
+https://data.ecb.europa.eu/
+
 https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
 
 https://www.financialdatasets.ai/
