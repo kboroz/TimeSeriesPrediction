@@ -32,6 +32,8 @@ https://sarem-seitz.com/posts/multivariate-garch-with-python-and-tensorflow.html
 
 https://github.com/Topaceminem/DCC-GARCH/blob/master/examples/dcc_garch_modeling.ipynb
 
+https://frds.io/algorithms/garch/
+
 ## Robert Engle V-Lab:
 
 ## Check the various model specifications at the bottom of the webapge
