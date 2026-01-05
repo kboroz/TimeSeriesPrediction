@@ -6,6 +6,9 @@ https://arxiv.org/abs/2401.13912
 
 Nicely written article - covers the recent history and developments in the field.
 
+## INFO on Loss functions to evaluate Regression Models
+
+https://medium.com/analytics-vidhya/loss-functions-to-evaluate-regression-models-8dac47e327e2
 
 ## INFO on Cross-Validation:
 
