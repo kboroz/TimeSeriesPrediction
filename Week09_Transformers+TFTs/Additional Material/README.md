@@ -58,4 +58,7 @@ https://arxiv.org/abs/2205.13504
 
 https://arxiv.org/abs/2402.02592
 
+## Toto - Time Series Optimized Transformer for Observability
+
+https://github.com/DataDog/toto
 
