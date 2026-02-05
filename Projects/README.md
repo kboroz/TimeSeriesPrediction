@@ -4,15 +4,15 @@ https://github.com/opencampus-sh/ml-project-template
 
 # PREVIOUS PROJECTS = REFERENCES
 
-# Summer term 2023
+# Summer Term 2023
 
 https://github.com/YannickKae/Financial-Market-Regime-Classification
 
-# Summer term 2024
+# Summer Term 2024
  
 https://github.com/AnnaValentinaHirsch/solar-prediction
 
-# Winter term 2024
+# Winter Term 2024/2025
 
 https://github.com/ChristopherKunze-Git/AdvancedTimeSeriesCourse-Engineering-Data
 
@@ -20,7 +20,7 @@ Winner of the **VDE Machine Learning Prize** - Congratulations to the "Blood Glu
 
 https://github.com/Timson1235/energy-timeseries-project
 
-# Summer term 2025
+# Summer Term 2025
 
 https://github.com/rmndrs89/advanced-time-series-prediction
 
@@ -29,6 +29,16 @@ https://github.com/worldmansist/German-energy-Time-Series-analysis-
 https://github.com/Ela200/FinanceGroup
 
 https://github.com/Metaphysicist1/Traffic-Data-Time-Series-Forecasting
+
+# Winter term 2025/2026
+
+https://github.com/Aadip-Thapaliya/EATSP-Energy-Advance-Time-Series-Prediction
+
+https://github.com/Sajjad5/Advanced-Time-Series-Predictions-WS26
+
+https://github.com/LucasNebelung/detecting_Sepsis
+
+https://github.com/chradden/AdvancedTimeSeriesPrediction
 
 # ###########################################################
 # POTENTIAL TOPICS - FIND SOMETHING THAT MOTIVATES YOU
