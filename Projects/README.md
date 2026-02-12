@@ -56,6 +56,8 @@ https://forecastingdata.org/
 
 https://huggingface.co/datasets/Salesforce/lotsa_data
 
+https://www.adialab.ae/structural-break-open-benchmark
+
 # FINANCE + ECONOMICS:
 
 https://www.sg-zertifikate.de/market-overview
