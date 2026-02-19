@@ -36,7 +36,7 @@ https://github.com/Aadip-Thapaliya/EATSP-Energy-Advance-Time-Series-Prediction
 
 https://github.com/Sajjad5/Advanced-Time-Series-Predictions-WS26
 
-https://github.com/LucasNebelung/detecting_Sepsis
+https://github.com/LucasNebelung/predicting_sepsis
 
 https://github.com/chradden/AdvancedTimeSeriesPrediction
 
