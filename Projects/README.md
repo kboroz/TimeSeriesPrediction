@@ -134,6 +134,10 @@ https://www.euromomo.eu/graphs-and-maps
 
 https://github.com/dkobak/excess-mortality/blob/main/all-countries.ipynb
 
+https://www.lifetable.de/Home/Index
+
+https://www.mortality.org/
+
 http://www.timeseriesclassification.com/index.php
 
 http://www.timeseriesclassification.com/description.php?Dataset=CardiacArrhythmia
