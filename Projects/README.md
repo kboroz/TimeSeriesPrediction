@@ -102,6 +102,8 @@ https://mpelger.people.stanford.edu/data-and-code
 
 https://github.com/Mcompetitions/M6-methods
 
+https://alpaca.markets/
+
 # ENERGY:
 
 https://www.energy-charts.info/?l=de&c=DE
