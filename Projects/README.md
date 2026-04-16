@@ -52,6 +52,8 @@ https://mrmaheshrajput.medium.com/neural-networks-and-llms-for-time-series-forec
 
 https://www.kaggle.com/
 
+https://challengedata.ens.fr/
+
 https://forecastingdata.org/
 
 https://huggingface.co/datasets/Salesforce/lotsa_data
