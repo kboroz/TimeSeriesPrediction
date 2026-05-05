@@ -16,8 +16,9 @@ https://github.com/AnnaValentinaHirsch/solar-prediction
 
 https://github.com/ChristopherKunze-Git/AdvancedTimeSeriesCourse-Engineering-Data
 
-Winner of the **VDE Machine Learning Prize 2025** - Congratulations to the:
-"Blood Glucose Forecasting"-Team
+Winner of the **VDE Machine Learning Prize 2025**
+
+Congratulations to the: "Blood Glucose Forecasting"-Team
 
 https://github.com/Timson1235/energy-timeseries-project
 
@@ -25,8 +26,9 @@ https://github.com/Timson1235/energy-timeseries-project
 
 https://github.com/rmndrs89/advanced-time-series-prediction
 
-Winner of the **VDE Machine Learning Prize 2026** - Congratulations to the:
-"Automated Detection of Freezing of Gait in Parkinson's Disease from Accelerometer Data"-Team
+Winner of the **VDE Machine Learning Prize 2026**
+
+Congratulations to the: "Automated Detection of Freezing of Gait in Parkinson's Disease from Accelerometer Data"-Team
 
 https://github.com/worldmansist/German-energy-Time-Series-analysis-
 
