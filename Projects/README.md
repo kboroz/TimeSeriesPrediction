@@ -24,6 +24,8 @@ https://github.com/Timson1235/energy-timeseries-project
 
 https://github.com/rmndrs89/advanced-time-series-prediction
 
+Winner of the VDE Machine Learning Prize - Congratulations to the "Automated Detection of Freezing of Gait in Parkinson's Disease from Accelerometer Data"-Team
+
 https://github.com/worldmansist/German-energy-Time-Series-analysis-
 
 https://github.com/Ela200/FinanceGroup
