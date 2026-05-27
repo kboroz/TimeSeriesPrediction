@@ -6,6 +6,12 @@ https://arxiv.org/abs/2401.13912
 
 Nicely written article - covers the recent history and developments in the field.
 
+## INFO on Understanding Data Drift and Model Drift: Drift Detection in Python:
+
+https://medium.com/model-monitoring-psi/population-stability-index-psi-ab133b0a5d42
+
+https://www.datacamp.com/tutorial/understanding-data-drift-model-drift
+
 ## INFO on Loss functions to evaluate Regression Models
 
 https://medium.com/analytics-vidhya/loss-functions-to-evaluate-regression-models-8dac47e327e2
