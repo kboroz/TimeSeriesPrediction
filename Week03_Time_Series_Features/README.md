@@ -37,6 +37,10 @@ https://youtu.be/W-3rIPGVbEo?feature=shared
 
 # Anomalies
 
+## Understanding Data Drift and Model Drift: Drift Detection in Python
+
+https://www.datacamp.com/tutorial/understanding-data-drift-model-drift
+
 ## Anomaly Detection : Time Series Talk
 
 https://www.youtube.com/watch?v=XPwCo4cqqt0
