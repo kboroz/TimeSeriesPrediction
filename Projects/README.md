@@ -128,6 +128,8 @@ https://meteostat.net/de/station/10338?t=2017-01-01/2025-08-01
 
 https://open-meteo.com/
 
+https://climatereanalyzer.org/clim/sst_daily/?dm_id=nino3.4
+
 https://geodynamics.org/
 
 https://www.pegelonline.wsv.de/gast/start
