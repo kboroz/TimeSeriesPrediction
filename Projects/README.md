@@ -130,6 +130,14 @@ https://open-meteo.com/
 
 https://climatereanalyzer.org/clim/sst_daily/?dm_id=nino3.4
 
+https://climada.ethz.ch/  
+
+https://zenodo.org/records/18087045  
+
+https://atmosphere.copernicus.eu/satellite-observations  
+
+https://cds.climate.copernicus.eu/  
+
 https://geodynamics.org/
 
 https://www.pegelonline.wsv.de/gast/start
@@ -157,6 +165,8 @@ http://www.timeseriesclassification.com/description.php?Dataset=CardiacArrhythmi
 http://www.timeseriesclassification.com/description.php?Dataset=ECG5000
 
 # SIGNALS (ENGINEERING + TRAFFIC + SPACE)
+
+https://www.gov.uk/government/statistical-data-sets/road-safety-open-data  
 
 https://data.nasa.gov/dataset/cmapss-jet-engine-simulated-data
 
