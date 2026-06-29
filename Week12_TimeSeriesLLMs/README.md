@@ -84,8 +84,13 @@ The following five papers represent the most recent (2025–2026) research utili
 References
 
 Brigato, L., et al. (2026). It's TIME: Towards the next generation of time series forecasting benchmarks. arXiv preprint. https://arxiv.org/html/2602.12147v1
+
 MachineLearningMastery. (2026). The 2026 time series toolkit: 5 foundation models for autonomous forecasting. https://machinelearningmastery.com/the-2026-time-series-toolkit-5-foundation-models-for-autonomous-forecasting/
+
 Salesforce AI Research. (2025). Moirai-2.0-R-small release. https://github.com/SalesforceAIResearch/uni2ts
+
 TsLLM Team. (2025). TsLLM: Augmenting LLMs for general time series understanding and prediction. arXiv preprint. https://arxiv.org/html/2510.01111v2
+
 Liu, X., et al. (2026). OATS: Online data augmentation for time series foundation models. arXiv preprint. https://arxiv.org/html/2601.19040v1
+
 Woo, G., Liu, C., Sahoo, D., Kumar, A., & Hoi, S. (2024). Unified training of universal time series forecasting transformers. ICML 2024 Oral. https://doi.org/10.48550/arXiv.2402.02592
