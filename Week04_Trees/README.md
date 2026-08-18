@@ -31,3 +31,5 @@ https://github.com/hubtru/LTBoost
 https://github.com/nicolagnecco/erf
 
 https://medium.com/geekculture/boruta-feature-selection-explained-in-python-7ae8bf4aa1e7
+
+https://pub.towardsai.net/are-tabular-foundation-models-ready-to-replace-gradient-boosting-models-cb039b955162
