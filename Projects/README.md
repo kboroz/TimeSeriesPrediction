@@ -84,6 +84,8 @@ https://www.clevelandfed.org/indicators-and-data/inflation-nowcasting
 
 https://data.ecb.europa.eu/
 
+https://www.bis.org/publ/qtrpdf/r_qt2603d.htm
+
 https://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html
 
 https://www.financialdatasets.ai/
